@@ -1,0 +1,60 @@
+# OpenClaw PPT SKILLS 全局配置
+# 对齐 HarnessConfig.md 规范合约
+
+# ================ 全局基础配置 ================
+harness_name: "high_quality_tech_ppt_skill"
+version: "1.1"
+execution_mode: "human_confirm"  # 可选: human_confirm/auto
+max_retry_times: 2
+enable_force_requirement_check: true   # HarnessConfig: 开启强制需求校验
+enable_step_by_step_execution: true    # HarnessConfig: 开启分步执行，严格禁止跳步
+
+# ================ VI规范配置 ================
+vi_spec:
+  primary_color: "#047857"
+  secondary_color: "#10B981"
+  neutral_colors: ["#1F2937", "#374151", "#6B7280", "#E5E7EB", "#FFFFFF"]
+  title_font: "Noto Sans SC"
+  body_font: "Noto Sans SC"
+  logo_position: "top_right"
+  page_margin: "20mm"
+  min_font_size: 12         # 单位: pt
+  min_contrast_ratio: 4.5   # 单位: 1 (即 4.5:1)
+
+# ================ 工具链配置（对齐 HarnessConfig toolchain_config） ================
+toolchain:
+  text_to_image_api: "https://api.openclaw.com/v1/image/generate"
+  image_mode: "workbuddy"     # 图片生成模式：placeholder(占位)/api(外部API)/workbuddy(AI助手调用ImageGen)
+  default_style: "business"   # 默认配图风格：business/finance/tech/education/strategy
+  python_chart_lib: "matplotlib"
+  pptx_lib: "python-pptx"
+  llm_api: "https://api.openclaw.com/v1/chat/completions"
+  consistency_checker: "validators/consistency_checker.py"
+
+# ================ 校验与迭代配置（对齐 HarnessConfig validation_config） ================
+validation_config:
+  auto_validation:
+    enable: true
+    fail_action: "auto_optimize"  # 违规项自动优化，优化失败触发人工介入
+  human_validation:
+    enable: true
+    mandatory_check_points:
+      - "需求对齐确认"
+      - "大纲确认"
+      - "最终交付确认"
+  feedback_loop:
+    enable: true
+    process: "解析用户反馈→拆解优化项→执行优化→更新规则库→重新校验"
+
+# ================ 持续训练配置（对齐 HarnessConfig training_config） ================
+training_config:
+  enable_few_shot_learning: true
+  few_shot_library: "高质量同场景PPT样例库（3-5套，标注优秀点）"
+  enable_rule_auto_update: true
+  rule_update_condition: "用户反馈的通用需求，出现次数≥2次自动纳入规则库"
+  enable_rlhf: true
+  reward_signal:
+    - "用户满意度评分"
+    - "生成通过率"
+    - "优化轮次"
+    - "内容合规性"
