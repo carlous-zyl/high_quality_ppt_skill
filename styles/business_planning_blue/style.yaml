@@ -1,1 +1,82 @@
-bmFtZTogYnVzaW5lc3NfcGxhbm5pbmdfYmx1ZQpkaXNwbGF5X25hbWU6IOiTneiJsuWVhuS4muetluWIkumjju+8iOa3seiTne+8iQp2ZXJzaW9uOiAxCnNvdXJjZTogZXh0cmFjdGVkOuiTneiJsuWVhuS4muetluWIkuS5pi5wcHR4CmV4dHJhY3RlZF9hdDogJzIwMjYtMDctMjJUMTk6MDk6MTUrMDg6MDAnCmtleXdvcmRzOgotIOWVhuS4mgotIOetluWIkgotIOWVhuS4muetluWIkgotIOiTneiJsgotIOa3seiTnQotIOWVhuWKoQpzbGlkZToKICB3aWR0aF9pbjogMTMuMzMzCiAgaGVpZ2h0X2luOiA3LjUKICBhc3BlY3Q6ICcxNjo5JwpwYWxldHRlOgogIGJhY2tncm91bmRfZGFyazogJzAwMDAwMCcKICBiYWNrZ3JvdW5kX2xpZ2h0OiBGRkZGRkYKICBjYXJkX2Rhcms6IDQ0NTQ2QQogIGNhcmRfbGlnaHQ6IEU3RTZFNgogIHByaW1hcnk6IDQ0NzJDNAogIHByaW1hcnlfbGlnaHQ6IEVEN0QzMQogIHByaW1hcnlfYnJpZ2h0OiBBNUE1QTUKICBhY2NlbnQ6IEZGQzAwMAogIGFjY2VudDI6IDVCOUJENQogIHN1Y2Nlc3M6IDEwQjk4MQogIHdhcm5pbmc6IEVGNDQ0NAogIHRleHRfbWFpbjogJzMzNDE1NScKICB0ZXh0X3N1YjogNjQ3NDhCCiAgdGV4dF9vbl9kYXJrOiBGRkZGRkYKICB0ZXh0X29uX2Rhcmtfc3ViOiA5NEEzQjgKZm9udHM6CiAgbGF0aW46IENhbGlicmkgTGlnaHQKICBjams6IE5vdG8gU2FucyBTQwogIHRpdGxlX21heF9wdDogOTYKICB0aXRsZV9taW5fcHQ6IDIwCiAgYm9keV9wdDogMTYKICBjYXB0aW9uX3B0OiA5CmxheW91dDoKICBjb3ZlcjoKICAgIGJhY2tncm91bmQ6IGRhcmsKICAgIG92ZXJsYXlfdHJhbnNwYXJlbmN5OiA0NQogICAgZWxlbWVudHM6CiAgICAtIHRhZwogICAgLSB0aXRsZQogICAgLSBzdWJ0aXRsZQogICAgLSBtZXRyaWNfY2FyZHMKICBjb250ZW50OgogICAgYmFja2dyb3VuZDogbGlnaHQKICAgIHRpdGxlX2JhcjogdHJ1ZQogICAgY2FyZF9zdHlsZTogcm91bmRlZF9zaGFkb3cKICBzZWN0aW9uX2RpdmlkZXI6CiAgICBiYWNrZ3JvdW5kOiBpbWFnZV9kYXJrCiAgICBvdmVybGF5X3RyYW5zcGFyZW5jeTogNDUKaW1hZ2VyeToKICBtb2RlOiB3b3JrYnVkZHkKICBiYWNrZ3JvdW5kX3RyYW5zcGFyZW5jeTogMTAKICBpbGx1c3RyYXRpb25fdHJhbnNwYXJlbmN5OiAzMAogIGljb25fY29sb3Jfb25fbGlnaHQ6IEZGNkYwMAogIGljb25fY29sb3Jfb25fZGFyazogRkZGRkZGCmV4dHJhY3Rpb246CiAgdGhlbWVfY29sb3JzOgogICAgZGsxOiAnMDAwMDAwJwogICAgbHQxOiBGRkZGRkYKICAgIGRrMjogNDQ1NDZBCiAgICBsdDI6IEU3RTZFNgogICAgYWNjZW50MTogNDQ3MkM0CiAgICBhY2NlbnQyOiBFRDdEMzEKICAgIGFjY2VudDM6IEE1QTVBNQogICAgYWNjZW50NDogRkZDMDAwCiAgICBhY2NlbnQ1OiA1QjlCRDUKICAgIGFjY2VudDY6IDcwQUQ0NwogICAgaGxpbms6IDA1NjNDMQogICAgZm9sSGxpbms6IDk1NEY3MgogIHRvcF90ZXh0X2NvbG9yczogW10KICB0b3BfZmlsbF9jb2xvcnM6IFtdCiAgZm9udF9mYWNlc19zZWVuOgogIC0g5b6u6L2v6ZuF6buRCiAgLSBBcmlhbAogIGF2Z19pbWFnZXNfcGVyX3NsaWRlOiAwLjUKICBzbGlkZV9jb3VudDogMzAK
+name: business_planning_blue
+display_name: 蓝色商业策划风（深蓝）
+version: 1
+source: extracted:蓝色商业策划书.pptx
+extracted_at: '2026-07-22T19:09:15+08:00'
+keywords:
+- 商业
+- 策划
+- 商业策划
+- 蓝色
+- 深蓝
+- 商务
+slide:
+  width_in: 13.333
+  height_in: 7.5
+  aspect: '16:9'
+palette:
+  background_dark: '000000'
+  background_light: FFFFFF
+  card_dark: 44546A
+  card_light: E7E6E6
+  primary: 4472C4
+  primary_light: ED7D31
+  primary_bright: A5A5A5
+  accent: FFC000
+  accent2: 5B9BD5
+  success: 10B981
+  warning: EF4444
+  text_main: '334155'
+  text_sub: 64748B
+  text_on_dark: FFFFFF
+  text_on_dark_sub: 94A3B8
+fonts:
+  latin: Calibri Light
+  cjk: Noto Sans SC
+  title_max_pt: 96
+  title_min_pt: 20
+  body_pt: 16
+  caption_pt: 9
+layout:
+  cover:
+    background: dark
+    overlay_transparency: 45
+    elements:
+    - tag
+    - title
+    - subtitle
+    - metric_cards
+  content:
+    background: light
+    title_bar: true
+    card_style: rounded_shadow
+  section_divider:
+    background: image_dark
+    overlay_transparency: 45
+imagery:
+  mode: workbuddy
+  background_transparency: 10
+  illustration_transparency: 30
+  icon_color_on_light: FF6F00
+  icon_color_on_dark: FFFFFF
+extraction:
+  theme_colors:
+    dk1: '000000'
+    lt1: FFFFFF
+    dk2: 44546A
+    lt2: E7E6E6
+    accent1: 4472C4
+    accent2: ED7D31
+    accent3: A5A5A5
+    accent4: FFC000
+    accent5: 5B9BD5
+    accent6: 70AD47
+    hlink: 0563C1
+    folHlink: 954F72
+  top_text_colors: []
+  top_fill_colors: []
+  font_faces_seen:
+  - 微软雅黑
+  - Arial
+  avg_images_per_slide: 0.5
+  slide_count: 30
