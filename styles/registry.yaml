@@ -1,1 +1,76 @@
-dmVyc2lvbjogMQp1cGRhdGVkOiAnMjAyNi0wNy0yNCcKc3R5bGVzOgotIG5hbWU6IGNvbnN1bHRpbmdfdGVjaF9kYXJrCiAgZGlzcGxheV9uYW1lOiDlkqjor6Lnp5HmioDpo47vvIjmmpfoibLvvIkKICBwYXRoOiBjb25zdWx0aW5nX3RlY2hfZGFyay9zdHlsZS55YW1sCiAga2V5d29yZHM6CiAgLSDlkqjor6IKICAtIOenkeaKgAogIC0g5pqX6ImyCiAgLSDmt7HoibIKICAtIOaImOeVpQogIC0g5pWw5a2X5YyW6L2s5Z6LCiAgLSDph5Hono0KICAtIOmdkue7vwogIC0gdGVhbAogIC0g5ZKo6K+i6aOOCiAgZGVzY3JpcHRpb246IOaal+iJsiBzbGF0ZS05MDAg5bqVICsg6Z2S57u/5Li76ImyICsg55Cl54+A5by66LCD77yM6YCC5ZCI5oiY55Wl5rGH5oqlL+aVsOWtl+WMlui9rOWeiy/ph5Hono3lkqjor6LlnLrmma8KICBidWlsdGluOiB0cnVlCi0gbmFtZTogZ3JlZW5fcHJvZmVzc2lvbmFsCiAgZGlzcGxheV9uYW1lOiDnu7/oibLkuJPkuJrpo44KICBwYXRoOiBncmVlbl9wcm9mZXNzaW9uYWwvc3R5bGUueWFtbAogIGtleXdvcmRzOgogIC0g57u/6ImyCiAgLSDkuJPkuJoKICAtIOa4heaWsAogIC0g546v5L+dCiAgLSDog73mupAKICAtIOWGnOS4mgogIC0g5YGl5bq3CiAgLSDmlZnogrIKICBkZXNjcmlwdGlvbjog5rex57u/5Li76ImyICsg5qmZ6Imy5b6956ug54K557yA77yM55m95bqV5Y2h54mH5biD5bGA77yM6YCC5ZCI5LiT5Lia5Z+56K6tL+ihjOS4muaKpeWRiuWcuuaZrwogIGJ1aWx0aW46IHRydWUKLSBuYW1lOiBpbnRlcm5ldF90ZWNoX2JsdWUKICBkaXNwbGF5X25hbWU6IOS6kuiBlOe9keenkeaKgOmjju+8iOS6ruiTne+8iQogIHBhdGg6IGludGVybmV0X3RlY2hfYmx1ZS9zdHlsZS55YW1sCiAga2V5d29yZHM6CiAgLSDkupLogZTnvZEKICAtIOenkeaKgAogIC0g5LqS6IGU572R56eR5oqACiAgLSDkuq7ok50KICAtIOenkeaKgOiTnQogIC0g6JOd57u/CiAgZGVzY3JpcHRpb246IOaPkOWPluiHqueUqOaIt+S4iuS8oOaooeeJiO+8muS6kuiBlOe9keenkeaKgOmjju+8iOS6ruiTne+8iQogIGJ1aWx0aW46IGZhbHNlCi0gbmFtZTogYnVzaW5lc3NfcGxhbm5pbmdfYmx1ZQogIGRpc3BsYXlfbmFtZTog6JOd6Imy5ZWG5Lia562W5YiS6aOO77yI5rex6JOd77yJCiAgcGF0aDogYnVzaW5lc3NfcGxhbm5pbmdfYmx1ZS9zdHlsZS55YW1sCiAga2V5d29yZHM6CiAgLSDllYbkuJoKICAtIOetluWIkgogIC0g5ZWG5Lia562W5YiSCiAgLSDok53oibIKICAtIOa3seiTnQogIC0g5ZWG5YqhCiAgZGVzY3JpcHRpb246IOaPkOWPluiHqueUqOaIt+S4iuS8oOaooeeJiO+8muiTneiJsuWVhuS4muetluWIkumjju+8iOa3seiTne+8iQogIGJ1aWx0aW46IGZhbHNlCi0gbmFtZTogbmF2eV9jb3Jwb3JhdGUKICBkaXNwbGF5X25hbWU6IOS8geS4muaImOeVpemjju+8iOa3sea1t+WGm+iTnSArIOapme+8iQogIHBhdGg6IG5hdnlfY29ycG9yYXRlL3N0eWxlLnlhbWwKICBrZXl3b3JkczogCiAtIOS8geS4muaImOeVpQogIC0g5oiY55Wl5rGH5oqlCiAgLSDnn6Xor4bkuK3lj7AKICAtIOa1t+WGm+iTnQogIC0gbmF2eQogIC0g5rex6JOdCiAgLSDmqZnoibIKICAtIGNvcnBvcmF0ZQogIC0gZW50ZXJwcmlzZQogIC0g55+l6K+G566h55CGCiAgZGVzY3JpcHRpb246IOeUqOaIt+S4iuS8oOOAiuefpeivhuS4reWPsOW/heimgeaApy5wcHR444CL6KeG6KeJ57O757uf77ya5rex5rW35Yab6JOdK+apmeW8uuiwgyvnmb3lupXljaHniYfvvIznlZnnmb3mnoHnroDnjrDku6MKICBidWlsdGluOiBmYWxzZQpzZWxlY3Rpb246CiAgZmFsbGJhY2s6IGNvbnN1bHRpbmdfdGVjaF9kYXJrCiAgbWF0Y2hfbW9kZToga2V5d29yZAo=
+version: 1
+updated: '2026-07-24'
+styles:
+- name: consulting_tech_dark
+  display_name: 咨询科技风（暗色）
+  path: consulting_tech_dark/style.yaml
+  keywords:
+  - 咨询
+  - 科技
+  - 暗色
+  - 深色
+  - 战略
+  - 数字化转型
+  - 金融
+  - 青绿
+  - teal
+  - 咨询风
+  description: 暗色 slate-900 底 + 青绿主色 + 琥珀强调，适合战略汇报/数字化转型/金融咨询场景
+  builtin: true
+- name: green_professional
+  display_name: 绿色专业风
+  path: green_professional/style.yaml
+  keywords:
+  - 绿色
+  - 专业
+  - 清新
+  - 环保
+  - 能源
+  - 农业
+  - 健康
+  - 教育
+  description: 深绿主色 + 橙色徽章点缀，白底卡片布局，适合专业培训/行业报告场景
+  builtin: true
+- name: internet_tech_blue
+  display_name: 互联网科技风（亮蓝）
+  path: internet_tech_blue/style.yaml
+  keywords:
+  - 互联网
+  - 科技
+  - 互联网科技
+  - 亮蓝
+  - 科技蓝
+  - 蓝绿
+  description: 提取自用户上传模版：互联网科技风（亮蓝）
+  builtin: false
+- name: business_planning_blue
+  display_name: 蓝色商业策划风（深蓝）
+  path: business_planning_blue/style.yaml
+  keywords:
+  - 商业
+  - 策划
+  - 商业策划
+  - 蓝色
+  - 深蓝
+  - 商务
+  description: 提取自用户上传模版：蓝色商业策划风（深蓝）
+  builtin: false
+- name: navy_corporate
+  display_name: 企业战略风（深海军蓝 + 橙）
+  path: navy_corporate/style.yaml
+  keywords:
+  - 企业战略
+  - 战略汇报
+  - 知识中台
+  - 海军蓝
+  - navy
+  - 深蓝
+  - 橙色
+  - corporate
+  - enterprise
+  - 知识管理
+  description: 用户上传《知识中台必要性.pptx》视觉系统：深海军蓝+橙强调+白底卡片，留白极简现代
+  builtin: false
+selection:
+  fallback: consulting_tech_dark
+  match_mode: keyword
