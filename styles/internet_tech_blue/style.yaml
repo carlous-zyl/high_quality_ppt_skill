@@ -1,1 +1,101 @@
-bmFtZTogaW50ZXJuZXRfdGVjaF9ibHVlCmRpc3BsYXlfbmFtZTog5LqS6IGU572R56eR5oqA6aOO77yI5Lqu6JOd77yJCnZlcnNpb246IDEKc291cmNlOiBleHRyYWN0ZWQ65LqS6IGU572R56eR5oqALnBwdHgKZXh0cmFjdGVkX2F0OiAnMjAyNi0wNy0yMlQxOTowOToxNSswODowMCcKa2V5d29yZHM6Ci0g5LqS6IGU572RCi0g56eR5oqACi0g5LqS6IGU572R56eR5oqACi0g5Lqu6JOdCi0g56eR5oqA6JOdCi0g6JOd57u/CnNsaWRlOgogIHdpZHRoX2luOiAxMy4zMzMKICBoZWlnaHRfaW46IDcuNQogIGFzcGVjdDogJzE2OjknCnBhbGV0dGU6CiAgYmFja2dyb3VuZF9kYXJrOiAnMDAwMDAwJwogIGJhY2tncm91bmRfbGlnaHQ6IEZGRkZGRgogIGNhcmRfZGFyazogNDQ1NDZBCiAgY2FyZF9saWdodDogRTdFNkU2CiAgcHJpbWFyeTogNUI5QkQ1CiAgcHJpbWFyeV9saWdodDogRUQ3RDMxCiAgcHJpbWFyeV9icmlnaHQ6IEE1QTVBNQogIGFjY2VudDogRkZDMDAwCiAgYWNjZW50MjogNDQ3MkM0CiAgc3VjY2VzczogMTBCOTgxCiAgd2FybmluZzogRUY0NDQ0CiAgdGV4dF9tYWluOiAnMzM0MTU1JwogIHRleHRfc3ViOiA2NDc0OEIKICB0ZXh0X29uX2Rhcms6IEZGRkZGRgogIHRleHRfb25fZGFya19zdWI6IDk0QTNCOApmb250czoKICBsYXRpbjogQXJpYWwKICBjams6IOW+rui9r+mbhem7kQogIHRpdGxlX21heF9wdDogMTM4CiAgdGl0bGVfbWluX3B0OiAyMAogIGJvZHlfcHQ6IDE2CiAgY2FwdGlvbl9wdDogOQpsYXlvdXQ6CiAgY292ZXI6CiAgICBiYWNrZ3JvdW5kOiBkYXJrCiAgICBvdmVybGF5X3RyYW5zcGFyZW5jeTogNDUKICAgIGVsZW1lbnRzOgogICAgLSB0YWcKICAgIC0gdGl0bGUKICAgIC0gc3VidGl0bGUKICAgIC0gbWV0cmljX2NhcmRzCiAgY29udGVudDoKICAgIGJhY2tncm91bmQ6IGxpZ2h0CiAgICB0aXRsZV9iYXI6IHRydWUKICAgIGNhcmRfc3R5bGU6IHJvdW5kZWRfc2hhZG93CiAgc2VjdGlvbl9kaXZpZGVyOgogICAgYmFja2dyb3VuZDogaW1hZ2VfZGFyawogICAgb3ZlcmxheV90cmFuc3BhcmVuY3k6IDQ1CmltYWdlcnk6CiAgbW9kZTogd29ya2J1ZGR5CiAgYmFja2dyb3VuZF90cmFuc3BhcmVuY3k6IDEwCiAgaWxsdXN0cmF0aW9uX3RyYW5zcGFyZW5jeTogMzAKICBpY29uX2NvbG9yX29uX2xpZ2h0OiBGRjZGMDAKICBpY29uX2NvbG9yX29uX2Rhcms6IEZGRkZGRgpleHRyYWN0aW9uOgogIHRoZW1lX2NvbG9yczoKICAgIGRrMTogJzAwMDAwMCcKICAgIGx0MTogRkZGRkZGCiAgICBkazI6IDQ0NTQ2QQogICAgbHQyOiBFN0U2RTYKICAgIGFjY2VudDE6IDVCOUJENQogICAgYWNjZW50MjogRUQ3RDMxCiAgICBhY2NlbnQzOiBBNUE1QTUKICAgIGFjY2VudDQ6IEZGQzAwMAogICAgYWNjZW50NTogNDQ3MkM0CiAgICBhY2NlbnQ2OiA3MEFENDcKICAgIGhsaW5rOiAwNTYzQzEKICAgIGZvbEhsaW5rOiA5NTRGNzIKICB0b3BfdGV4dF9jb2xvcnM6CiAgLSBoZXg6IEZGRkZGRgogICAgY291bnQ6IDEKICB0b3BfZmlsbF9jb2xvcnM6CiAgLSBoZXg6IDAyOTNGMgogICAgY291bnQ6IDgKICAtIGhleDogRDdEN0UxCiAgICBjb3VudDogNAogIC0gaGV4OiAxOEQyRkMKICAgIGNvdW50OiAxCiAgLSBoZXg6IDFFREFERAogICAgY291bnQ6IDEKICAtIGhleDogMDBBNEE0CiAgICBjb3VudDogMQogIC0gaGV4OiAnMTAzNzg1JwogICAgY291bnQ6IDEKICAtIGhleDogRkZGRkZGCiAgICBjb3VudDogMQogIGZvbnRfZmFjZXNfc2VlbjoKICAtICttai1lYQogIC0gK21qLWx0CiAgLSArbW4tZWEKICAtIFNvdXJjZSBIYW4gU2FucyBMaWdodAogIC0gQXJpYWwKICBhdmdfaW1hZ2VzX3Blcl9zbGlkZTogMy44CiAgc2xpZGVfY291bnQ6IDI4Cg==
+name: internet_tech_blue
+display_name: 互联网科技风（亮蓝）
+version: 1
+source: extracted:互联网科技.pptx
+extracted_at: '2026-07-22T19:09:15+08:00'
+keywords:
+- 互联网
+- 科技
+- 互联网科技
+- 亮蓝
+- 科技蓝
+- 蓝绿
+slide:
+  width_in: 13.333
+  height_in: 7.5
+  aspect: '16:9'
+palette:
+  background_dark: '000000'
+  background_light: FFFFFF
+  card_dark: 44546A
+  card_light: E7E6E6
+  primary: 5B9BD5
+  primary_light: ED7D31
+  primary_bright: A5A5A5
+  accent: FFC000
+  accent2: 4472C4
+  success: 10B981
+  warning: EF4444
+  text_main: '334155'
+  text_sub: 64748B
+  text_on_dark: FFFFFF
+  text_on_dark_sub: 94A3B8
+fonts:
+  latin: Arial
+  cjk: 微软雅黑
+  title_max_pt: 138
+  title_min_pt: 20
+  body_pt: 16
+  caption_pt: 9
+layout:
+  cover:
+    background: dark
+    overlay_transparency: 45
+    elements:
+    - tag
+    - title
+    - subtitle
+    - metric_cards
+  content:
+    background: light
+    title_bar: true
+    card_style: rounded_shadow
+  section_divider:
+    background: image_dark
+    overlay_transparency: 45
+imagery:
+  mode: workbuddy
+  background_transparency: 10
+  illustration_transparency: 30
+  icon_color_on_light: FF6F00
+  icon_color_on_dark: FFFFFF
+extraction:
+  theme_colors:
+    dk1: '000000'
+    lt1: FFFFFF
+    dk2: 44546A
+    lt2: E7E6E6
+    accent1: 5B9BD5
+    accent2: ED7D31
+    accent3: A5A5A5
+    accent4: FFC000
+    accent5: 4472C4
+    accent6: 70AD47
+    hlink: 0563C1
+    folHlink: 954F72
+  top_text_colors:
+  - hex: FFFFFF
+    count: 1
+  top_fill_colors:
+  - hex: 0293F2
+    count: 8
+  - hex: D7D7E1
+    count: 4
+  - hex: 18D2FC
+    count: 1
+  - hex: 1EDADD
+    count: 1
+  - hex: 00A4A4
+    count: 1
+  - hex: '103785'
+    count: 1
+  - hex: FFFFFF
+    count: 1
+  font_faces_seen:
+  - +mj-ea
+  - +mj-lt
+  - +mn-ea
+  - Source Han Sans Light
+  - Arial
+  avg_images_per_slide: 3.8
+  slide_count: 28
