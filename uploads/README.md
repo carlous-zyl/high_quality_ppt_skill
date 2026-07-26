@@ -1,1 +1,37 @@
-IyB1cGxvYWRzLyDigJQg55So5oi3IFBQVCDmqKHniYjkuIrkvKDnm67lvZUKCuaKiuS9oOiHquW3seaUtumbhueahCBQUFQg5qih54mI77yIYC5wcHR4YO+8ieaUvui/m+i/meS4quebruW9le+8jOaKgOiDveWPr+S7peaJuemHj+aPkOWPluWug+S7rOeahOinhuiniemjjuagvO+8jOeUn+aIkOmjjuagvOagt+S+i+S/neWtmOWIsCBgc3R5bGVzL2DvvIzkuYvlkI7nlJ/miJAgUFBUIOaXtuWNs+WPr+aMiemjjuagvOWQjS/lhbPplK7or43pgInnlKjjgIIKCiMjIOeUqOazlQoKIyMjIOaJuemHj+aPkOWPlu+8iOaVtOS4quebruW9le+8iQoKYGBgYmFzaApweXRob24zIHRvb2xzL3N0eWxlX2V4dHJhY3Rvci5weSAtLWJhdGNoCiMg5omr5o+PIHVwbG9hZHMvKi5wcHR477yM6YCQ5Liq5o+Q5Y+WIOKGkiBzdHlsZXMvPOmjjuagvElEPi9zdHlsZS55YW1sICsg55m76K6wIHJlZ2lzdHJ5LnlhbWwKYGBgCgojIyMg5oyH5a6a55uu5b2VIC8g6KaG55uW5bey5a2Y5Zyo6aOO5qC8CgpgYGBiYXNoCnB5dGhvbjMgdG9vbHMvc3R5bGVfZXh0cmFjdG9yLnB5IC0tYmF0Y2ggdXBsb2Fkcy8gLS1mb3JjZQpgYGAKCiMjIyDljZXkuKrmlofku7bnsr7nu4bmj5Dlj5bvvIjmjqjojZDph43opoHmqKHniYjkvb/nlKjvvIkKCmBgYGJhc2gKcHl0aG9uMyB0b29scy9zdHlsZV9leHRyYWN0b3IucHkgdXBsb2Fkcy/lpK7kvIHmsYfmiqXmqKHniYgucHB0eCBcCiAgICAtLW5hbWUgc29lX2NvcnBfYmx1ZSAtLWtleXdvcmRzICLlpK7kvIEs6JOd6ImyLOWVhuWKoSIKYGBgCgojIyDlkb3lkI3op4TliJkKCi0g5om56YeP5qih5byP5LiL6aOO5qC8IElEIOeUseaWh+S7tuWQjeiHquWKqOi9rOS4uiBzbmFrZV9jYXNl77yI5aaCIGBCbHVlLUNvcnAtMjAyNC5wcHR4YCDihpIgYGJsdWVfY29ycF8yMDI0YO+8iQotIOS4reaWh+aWh+S7tuWQjeaXoOazleiHquWKqOi9rOWGmeaXtu+8jOWRveWQjeS4uiBgc3R5bGVfMDAxYOOAgWBzdHlsZV8wMDJg4oCm77yM5bm25oqK5Y6f5paH5Lu25ZCN5YaZ5YWlIGBrZXl3b3Jkc2Ag5L6/5LqO5Yy56YWNCi0g5oOz57K+56Gu5o6n5Yi26aOO5qC8IElEIOWSjOWFs+mUruivjeaXtu+8jOivt+eUqOWNleaWh+S7tuaooeW8jyBgLS1uYW1lYCAvIGAtLWtleXdvcmRzYAoKIyMg5rOo5oSPCgotIOacrOebruW9leWPquaUvua6kOaooeeJiO+8jOaPkOWPluS6p+eJqeWcqCBgc3R5bGVzL2DvvIzkuKTogIXkupLkuI3lvbHlk40KLSDliKDpmaTmnKznm67lvZXnmoTmqKHniYjkuI3kvJrliKDpmaTlt7LlhaXlupPnmoTpo47moLzmoLfkvovvvJvlpoLpnIDnp7vpmaTpo47moLzvvIzliKAgYHN0eWxlcy886aOO5qC8SUQ+L2Ag5bm25ZyoIGBzdHlsZXMvcmVnaXN0cnkueWFtbGAg5Y675o6J5a+55bqU5p2h55uuCi0gYC5EU19TdG9yZWAg562J57O757uf5paH5Lu25Lya6KKr6Ieq5Yqo5b+955WlCg==
+# uploads/ — 用户 PPT 模版上传目录
+
+把你自己收集的 PPT 模版（`.pptx`）放进这个目录，技能可以批量提取它们的视觉风格，生成风格样例保存到 `styles/`，之后生成 PPT 时即可按风格名/关键词选用。
+
+## 用法
+
+### 批量提取（整个目录）
+
+```bash
+python3 tools/style_extractor.py --batch
+# 扫描 uploads/*.pptx，逐个提取 → styles/<风格ID>/style.yaml + 登记 registry.yaml
+```
+
+### 指定目录 / 覆盖已存在风格
+
+```bash
+python3 tools/style_extractor.py --batch uploads/ --force
+```
+
+### 单个文件精细提取（推荐重要模版使用）
+
+```bash
+python3 tools/style_extractor.py uploads/央企汇报模版.pptx \
+    --name soe_corp_blue --keywords "央企,蓝色,商务"
+```
+
+## 命名规则
+
+- 批量模式下风格 ID 由文件名自动转为 snake_case（如 `Blue-Corp-2024.pptx` → `blue_corp_2024`）
+- 中文文件名无法自动转写时，命名为 `style_001`、`style_002`…，并把原文件名写入 `keywords` 便于匹配
+- 想精确控制风格 ID 和关键词时，请用单文件模式 `--name` / `--keywords`
+
+## 注意
+
+- 本目录只放源模版，提取产物在 `styles/`，两者互不影响
+- 删除本目录的模版不会删除已入库的风格样例；如需移除风格，删 `styles/<风格ID>/` 并在 `styles/registry.yaml` 去掉对应条目
+- `.DS_Store` 等系统文件会被自动忽略
