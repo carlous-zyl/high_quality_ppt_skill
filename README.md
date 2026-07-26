@@ -1,4 +1,4 @@
-# 高质量科技风PPT生成引擎（high-quality-ppt-skill）
+# 高质量PPT生成引擎（high-quality-ppt-skill）
 
 从自然语言需求或结构化大纲，自动生成**咨询公司品质**的专业级可编辑 PPTX。通用技能包，无智能体绑定目录，可被 WorkBuddy / OpenClaw / Hermes 等智能体直接加载。兼容 macOS 与 Windows。
 
