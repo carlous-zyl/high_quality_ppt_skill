@@ -1,1 +1,66 @@
-aW1wb3J0IHJlCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBBbnkKCmNsYXNzIENvbXBsaWFuY2VDaGVja2VyOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbmZpZzogRGljdFtzdHIsIEFueV0pOgogICAgICAgIHNlbGYuY29uZmlnID0gY29uZmlnCiAgICAgICAgc2VsZi52aSA9IGNvbmZpZ1sidmlfc3BlYyJdCgogICAgZGVmIGNoZWNrKHNlbGYsIHBhZ2VfY29udGVudDogRGljdFtzdHIsIEFueV0sIGxheW91dF9zcGVjOiBEaWN0W3N0ciwgQW55XSwgbWF0ZXJpYWxzOiBEaWN0W3N0ciwgQW55XSkgLT4gYm9vbDoKICAgICAgICAiIiLlkIjop4TmgKfmoKHpqowiIiIKICAgICAgICBjaGVja3MgPSBbCiAgICAgICAgICAgIHNlbGYuX2NoZWNrX2NvbnRyYXN0X3JhdGlvKGxheW91dF9zcGVjKSwKICAgICAgICAgICAgc2VsZi5fY2hlY2tfaW5mb3JtYXRpb25fZGVuc2l0eV9yZXR1cm4ocGFnZV9jb250ZW50KSwKICAgICAgICAgICAgc2VsZi5fY2hlY2tfYnJhbmRfY29tcGxpYW5jZShsYXlvdXRfc3BlYykKICAgICAgICBdCiAgICAgICAgcmV0dXJuIGFsbChjaGVja3MpCgogICAgZGVmIGNoZWNrX2luZm9ybWF0aW9uX2RlbnNpdHkoc2VsZiwgcGFnZV9jb250ZW50OiBEaWN0W3N0ciwgQW55XSkgLT4gYm9vbDoKICAgICAgICAiIiIKICAgICAgICDkv6Hmga/lr4bluqbljbPml7bmoKHpqozvvIjkvptwaXBlbGluZeatpemqpDPosIPnlKjvvIkKICAgICAgICBIYXJuZXNzQ29uZmlnOiDljZXpobXmraPmlofiiaQzMDDlrZcKICAgICAgICDkv67mraPvvJrnu5/orqHmnInmlYjlrZfmlbDvvIjljrvpmaTmjaLooYzlkozlpJrkvZnnqbrnmb3vvInvvIzogIzpnZ7ljp/lp4vlrZfnrKbplb/luqYKICAgICAgICAiIiIKICAgICAgICBtYXhfd29yZHMgPSAzMDAKICAgICAgICBhbGxfb2sgPSBUcnVlCiAgICAgICAgZm9yIHBhZ2VfaWQsIGNvbnRlbnQgaW4gcGFnZV9jb250ZW50Lml0ZW1zKCk6CiAgICAgICAgICAgIGlmICJib2R5IiBpbiBjb250ZW50IGFuZCBjb250ZW50WyJib2R5Il06CiAgICAgICAgICAgICAgICAjIOe7n+iuoeacieaViOWtl+aVsO+8muWOu+mZpOaNouihjOWSjOi/nue7reepuueZvQogICAgICAgICAgICAgICAgZWZmZWN0aXZlX3RleHQgPSByZS5zdWIocidccysnLCAnJywgY29udGVudFsiYm9keSJdKQogICAgICAgICAgICAgICAgd29yZF9jb3VudCA9IGxlbihlZmZlY3RpdmVfdGV4dCkKICAgICAgICAgICAgICAgIGlmIHdvcmRfY291bnQgPiBtYXhfd29yZHM6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoZiJb6K2m5ZGKXSDpobXpnaIge3BhZ2VfaWR9IOaWh+Wtl+i/h+Wkmu+8mnt3b3JkX2NvdW50feWtl++8jOW7uuiuruKJpHttYXhfd29yZHN95a2XIikKICAgICAgICAgICAgICAgICAgICBhbGxfb2sgPSBGYWxzZQogICAgICAgIHJldHVybiBhbGxfb2sKCiAgICBkZWYgX2NoZWNrX2luZm9ybWF0aW9uX2RlbnNpdHlfcmV0dXJuKHNlbGYsIHBhZ2VfY29udGVudDogRGljdFtzdHIsIEFueV0pIC0+IGJvb2w6CiAgICAgICAgIiIi5ZCI6KeE5qCh6aqM5YaF6YOo6LCD55So77yI6L+U5ZueYm9vbO+8jOS4jeWGjeaBkui/lOWbnlRydWXvvIkiIiIKICAgICAgICByZXR1cm4gc2VsZi5jaGVja19pbmZvcm1hdGlvbl9kZW5zaXR5KHBhZ2VfY29udGVudCkKCiAgICBkZWYgX2NoZWNrX2NvbnRyYXN0X3JhdGlvKHNlbGYsIGxheW91dF9zcGVjOiBEaWN0W3N0ciwgQW55XSkgLT4gYm9vbDoKICAgICAgICAiIiLmo4Dmn6XmloflrZfkuI7og4zmma/lr7nmr5TluqbvvIjnroDljJbniYjvvIzlrp7pmYXpnIDorqHnrpfnm7jlr7nkuq7luqbvvIkiIiIKICAgICAgICBtaW5fcmF0aW8gPSBzZWxmLnZpWyJtaW5fY29udHJhc3RfcmF0aW8iXQogICAgICAgIGFsbF9vayA9IFRydWUKICAgICAgICBmb3IgcGFnZV9pZCwgc3BlYyBpbiBsYXlvdXRfc3BlYy5pdGVtcygpOgogICAgICAgICAgICBpZiAiY29udHJhc3RfcmF0aW8iIGluIHNwZWM6CiAgICAgICAgICAgICAgICBpZiBzcGVjWyJjb250cmFzdF9yYXRpbyJdIDwgbWluX3JhdGlvOgogICAgICAgICAgICAgICAgICAgIHByaW50KGYiW+mUmeivr10g6aG16Z2iIHtwYWdlX2lkfSDlr7nmr5TluqbkuI3otrPvvJp7c3BlY1snY29udHJhc3RfcmF0aW8nXX06Me+8jOimgeaxguKJpXttaW5fcmF0aW99OjEiKQogICAgICAgICAgICAgICAgICAgIGFsbF9vayA9IEZhbHNlCiAgICAgICAgcmV0dXJuIGFsbF9vawoKICAgIGRlZiBfY2hlY2tfYnJhbmRfY29tcGxpYW5jZShzZWxmLCBsYXlvdXRfc3BlYzogRGljdFtzdHIsIEFueV0pIC0+IGJvb2w6CiAgICAgICAgIiIi5qOA5p+l5ZOB54mM5ZCI6KeE5oCnIiIiCiAgICAgICAgIyDmo4Dmn6VMb2dv5L2N572uCiAgICAgICAgcmVxdWlyZWRfbG9nb19wb3MgPSBzZWxmLnZpWyJsb2dvX3Bvc2l0aW9uIl0KICAgICAgICBhbGxfb2sgPSBUcnVlCiAgICAgICAgZm9yIHBhZ2VfaWQsIHNwZWMgaW4gbGF5b3V0X3NwZWMuaXRlbXMoKToKICAgICAgICAgICAgaWYgImxvZ29fcG9zaXRpb24iIGluIHNwZWM6CiAgICAgICAgICAgICAgICBpZiBzcGVjWyJsb2dvX3Bvc2l0aW9uIl0gIT0gcmVxdWlyZWRfbG9nb19wb3M6CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoZiJb6ZSZ6K+vXSDpobXpnaIge3BhZ2VfaWR9IExvZ28v5Y3nva7plJnor6/vvJp7c3BlY1snbG9nb19wb3NpdGlvbiddfe+8jOimgeaxgu+8mntyZXF1aXJlZF9sb2dvX3Bvc30iKQogICAgICAgICAgICAgICAgICAgIGFsbF9vayA9IEZhbHNlCiAgICAgICAgICAgICMg5qOA5p+l5pyA5bCP5a2X5Y+3CiAgICAgICAgICAgIGlmICJtaW5fZm9udF9zaXplIiBpbiBzcGVjOgogICAgICAgICAgICAgICAgaWYgc3BlY1sibWluX2ZvbnRfc2l6ZSJdIDwgc2VsZi52aVsibWluX2ZvbnRfc2l6ZSJdOgogICAgICAgICAgICAgICAgICAgIHByaW50KGYiW+mUmeivr10g6aG16Z2iIHtwYWdlX2lkfSDlrZflj7fov4flsI/vvJp7c3BlY1snbWluX2ZvbnRfc2l6ZSddfXB077yM6KaB5rGC4omle3NlbGYudmlbJ21pbl9mb250X3NpemUnXX1wdCIpCiAgICAgICAgICAgICAgICAgICAgYWxsX29rID0gRmFsc2UKICAgICAgICByZXR1cm4gYWxsX29rCg==
+import re
+from typing import Dict, Any
+
+class ComplianceChecker:
+    def __init__(self, config: Dict[str, Any]):
+        self.config = config
+        self.vi = config["vi_spec"]
+
+    def check(self, page_content: Dict[str, Any], layout_spec: Dict[str, Any], materials: Dict[str, Any]) -> bool:
+        """合规性校验"""
+        checks = [
+            self._check_contrast_ratio(layout_spec),
+            self._check_information_density_return(page_content),
+            self._check_brand_compliance(layout_spec)
+        ]
+        return all(checks)
+
+    def check_information_density(self, page_content: Dict[str, Any]) -> bool:
+        """
+        信息密度即时校验（供pipeline步骤3调用）
+        HarnessConfig: 单页正文≤300字
+        修正：统计有效字数（去除换行和多余空白），而非原始字符长度
+        """
+        max_words = 300
+        all_ok = True
+        for page_id, content in page_content.items():
+            if "body" in content and content["body"]:
+                # 统计有效字数：去除换行和连续空白
+                effective_text = re.sub(r'\s+', '', content["body"])
+                word_count = len(effective_text)
+                if word_count > max_words:
+                    print(f"[警告] 页面 {page_id} 文字过多：{word_count}字，建议≤{max_words}字")
+                    all_ok = False
+        return all_ok
+
+    def _check_information_density_return(self, page_content: Dict[str, Any]) -> bool:
+        """合规校验内部调用（返回bool，不再恒返回True）"""
+        return self.check_information_density(page_content)
+
+    def _check_contrast_ratio(self, layout_spec: Dict[str, Any]) -> bool:
+        """检查文字与背景对比度（简化版，实际需计算相对亮度）"""
+        min_ratio = self.vi["min_contrast_ratio"]
+        all_ok = True
+        for page_id, spec in layout_spec.items():
+            if "contrast_ratio" in spec:
+                if spec["contrast_ratio"] < min_ratio:
+                    print(f"[错误] 页面 {page_id} 对比度不足：{spec['contrast_ratio']}:1，要求≥{min_ratio}:1")
+                    all_ok = False
+        return all_ok
+
+    def _check_brand_compliance(self, layout_spec: Dict[str, Any]) -> bool:
+        """检查品牌合规性"""
+        # 检查Logo位置
+        required_logo_pos = self.vi["logo_position"]
+        all_ok = True
+        for page_id, spec in layout_spec.items():
+            if "logo_position" in spec:
+                if spec["logo_position"] != required_logo_pos:
+                    print(f"[错误] 页面 {page_id} Logo位置错误：{spec['logo_position']}，要求：{required_logo_pos}")
+                    all_ok = False
+            # 检查最小字号
+            if "min_font_size" in spec:
+                if spec["min_font_size"] < self.vi["min_font_size"]:
+                    print(f"[错误] 页面 {page_id} 字号过小：{spec['min_font_size']}pt，要求≥{self.vi['min_font_size']}pt")
+                    all_ok = False
+        return all_ok
