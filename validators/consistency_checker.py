@@ -1,1 +1,52 @@
-ZnJvbSB0eXBpbmcgaW1wb3J0IERpY3QsIEFueQoKY2xhc3MgQ29uc2lzdGVuY3lDaGVja2VyOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNvbmZpZzogRGljdFtzdHIsIEFueV0pOgogICAgICAgIHNlbGYuY29uZmlnID0gY29uZmlnCiAgICAgICAgc2VsZi52aSA9IGNvbmZpZ1sidmlfc3BlYyJdCgogICAgZGVmIGNoZWNrKHNlbGYsIHBhZ2VfY29udGVudDogRGljdFtzdHIsIEFueV0sIGxheW91dF9zcGVjOiBEaWN0W3N0ciwgQW55XSkgLT4gYm9vbDoKICAgICAgICAiIiLlhajnqL/kuIDoh7TmgKfmoKHpqozvvIjlrp7pmYXov5Tlm57moKHpqoznu5PmnpzvvIzkuI3lho3mgZLov5Tlm55UcnVl77yJIiIiCiAgICAgICAgY2hlY2tzID0gWwogICAgICAgICAgICBzZWxmLl9jaGVja19mb250X2NvbnNpc3RlbmN5KHBhZ2VfY29udGVudCksCiAgICAgICAgICAgIHNlbGYuX2NoZWNrX2NvbG9yX2NvbnNpc3RlbmN5KGxheW91dF9zcGVjKSwKICAgICAgICAgICAgc2VsZi5fY2hlY2tfbGF5b3V0X2NvbnNpc3RlbmN5KGxheW91dF9zcGVjKQogICAgICAgIF0KICAgICAgICByZXR1cm4gYWxsKGNoZWNrcykKCiAgICBkZWYgX2NoZWNrX2ZvbnRfY29uc2lzdGVuY3koc2VsZiwgcGFnZV9jb250ZW50OiBEaWN0W3N0ciwgQW55XSkgLT4gYm9vbDoKICAgICAgICAiIiLmo4Dmn6XlrZfkvZPkuIDoh7TmgKciIiIKICAgICAgICByZXF1aXJlZF9mb250cyA9IHtzZWxmLnZpWyJ0aXRsZV9mb250Il0sIHNlbGYudmlbImJvZHlfZm9udCJdfQogICAgICAgIGFsbF9vayA9IFRydWUKICAgICAgICBmb3IgcGFnZV9pZCwgY29udGVudCBpbiBwYWdlX2NvbnRlbnQuaXRlbXMoKToKICAgICAgICAgICAgaWYgImZvbnQiIGluIGNvbnRlbnQ6CiAgICAgICAgICAgICAgICBwYWdlX2ZvbnRzID0gc2V0KGNvbnRlbnRbImZvbnQiXS52YWx1ZXMoKSkKICAgICAgICAgICAgICAgIGlmIG5vdCBwYWdlX2ZvbnRzLmlzc3Vic2V0KHJlcXVpcmVkX2ZvbnRzKToKICAgICAgICAgICAgICAgICAgICBwcmludChmIlvplJnor69dIOmhtemdoiB7cGFnZV9pZH0g5a2Y5Zyo6Z2e6KeE6IyD5a2X5L2T77yae3BhZ2VfZm9udHMgLSByZXF1aXJlZF9mb250c30iKQogICAgICAgICAgICAgICAgICAgIGFsbF9vayA9IEZhbHNlCiAgICAgICAgcmV0dXJuIGFsbF9vawoKICAgIGRlZiBfY2hlY2tfY29sb3JfY29uc2lzdGVuY3koc2VsZiwgbGF5b3V0X3NwZWM6IERpY3Rbc3RyLCBBbnldKSAtPiBib29sOgogICAgICAgICIiIuajgOafpemFjeiJsuS4gOiHtOaApyIiIgogICAgICAgIHJlcXVpcmVkX2NvbG9ycyA9IHtzZWxmLnZpWyJwcmltYXJ5X2NvbG9yIl0sIHNlbGYudmlbInNlY29uZGFyeV9jb2xvciJdfSB8IHNldChzZWxmLnZpWyJuZXV0cmFsX2NvbG9ycyJdKQogICAgICAgIGFsbF9vayA9IFRydWUKICAgICAgICBmb3IgcGFnZV9pZCwgc3BlYyBpbiBsYXlvdXRfc3BlYy5pdGVtcygpOgogICAgICAgICAgICBpZiAiY29sb3JzIiBpbiBzcGVjOgogICAgICAgICAgICAgICAgcGFnZV9jb2xvcnMgPSBzZXQoc3BlY1siY29sb3JzIl0pCiAgICAgICAgICAgICAgICBpZiBub3QgcGFnZV9jb2xvcnMuaXNzdWJzZXQocmVxdWlyZWRfY29sb3JzKToKICAgICAgICAgICAgICAgICAgICBwcmludChmIlvplJnor69dIOmhtemdoiB7cGFnZV9pZH0g5a2Y5Zyo6Z2e6KeE6IyD6YWN6Imy77yae3BhZ2VfY29sb3JzIC0gcmVxdWlyZWRfY29sb3JzfSIpCiAgICAgICAgICAgICAgICAgICAgYWxsX29rID0gRmFsc2UKICAgICAgICByZXR1cm4gYWxsX29rCgogICAgZGVmIF9jaGVja19sYXlvdXRfY29uc2lzdGVuY3koc2VsZiwgbGF5b3V0X3NwZWM6IERpY3Rbc3RyLCBBbnldKSAtPiBib29sOgogICAgICAgICIiIuajgOafpeeJiOW8j+S4gOiHtOaApyIiIgogICAgICAgIGlmIGxlbihsYXlvdXRfc3BlYykgPCAyOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGFsbF9vayA9IFRydWUKICAgICAgICAjIOajgOafpemhtei+uei3neaYr+WQpuS4gOiHtAogICAgICAgIGZpcnN0X21hcmdpbiA9IGxheW91dF9zcGVjLmdldChsaXN0KGxheW91dF9zcGVjLmtleXMoKSlbMF0sIHt9KS5nZXQoIm1hcmdpbiIsIHNlbGYudmlbInBhZ2VfbWFyZ2luIl0pCiAgICAgICAgZm9yIHBhZ2VfaWQsIHNwZWMgaW4gbGF5b3V0X3NwZWMuaXRlbXMoKToKICAgICAgICAgICAgaWYgc3BlYy5nZXQoIm1hcmdpbiIsIHNlbGYudmlbInBhZ2VfbWFyZ2luIl0pICE9IGZpcnN0X21hcmdpbjoKICAgICAgICAgICAgICAgIHByaW50KGYiW+mUmeivr10g6aG16Z2iIHtwYWdlX2lkfSDpobXovrnot53kuI7pppbpobXkuI3kuIDoh7QiKQogICAgICAgICAgICAgICAgYWxsX29rID0gRmFsc2UKICAgICAgICByZXR1cm4gYWxsX29rCg==
+from typing import Dict, Any
+
+class ConsistencyChecker:
+    def __init__(self, config: Dict[str, Any]):
+        self.config = config
+        self.vi = config["vi_spec"]
+
+    def check(self, page_content: Dict[str, Any], layout_spec: Dict[str, Any]) -> bool:
+        """全稿一致性校验（实际返回校验结果，不再恒返回True）"""
+        checks = [
+            self._check_font_consistency(page_content),
+            self._check_color_consistency(layout_spec),
+            self._check_layout_consistency(layout_spec)
+        ]
+        return all(checks)
+
+    def _check_font_consistency(self, page_content: Dict[str, Any]) -> bool:
+        """检查字体一致性"""
+        required_fonts = {self.vi["title_font"], self.vi["body_font"]}
+        all_ok = True
+        for page_id, content in page_content.items():
+            if "font" in content:
+                page_fonts = set(content["font"].values())
+                if not page_fonts.issubset(required_fonts):
+                    print(f"[错误] 页面 {page_id} 存在非规范字体：{page_fonts - required_fonts}")
+                    all_ok = False
+        return all_ok
+
+    def _check_color_consistency(self, layout_spec: Dict[str, Any]) -> bool:
+        """检查配色一致性"""
+        required_colors = {self.vi["primary_color"], self.vi["secondary_color"]} | set(self.vi["neutral_colors"])
+        all_ok = True
+        for page_id, spec in layout_spec.items():
+            if "colors" in spec:
+                page_colors = set(spec["colors"])
+                if not page_colors.issubset(required_colors):
+                    print(f"[错误] 页面 {page_id} 存在非规范配色：{page_colors - required_colors}")
+                    all_ok = False
+        return all_ok
+
+    def _check_layout_consistency(self, layout_spec: Dict[str, Any]) -> bool:
+        """检查版式一致性"""
+        if len(layout_spec) < 2:
+            return True
+        all_ok = True
+        # 检查页边距是否一致
+        first_margin = layout_spec.get(list(layout_spec.keys())[0], {}).get("margin", self.vi["page_margin"])
+        for page_id, spec in layout_spec.items():
+            if spec.get("margin", self.vi["page_margin"]) != first_margin:
+                print(f"[错误] 页面 {page_id} 页边距与首页不一致")
+                all_ok = False
+        return all_ok
