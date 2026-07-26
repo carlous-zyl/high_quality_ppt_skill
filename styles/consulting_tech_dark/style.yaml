@@ -1,1 +1,71 @@
-IyDlhoXnva7po47moLxB77ya5ZKo6K+i56eR5oqA6aOO77yI5pqX6Imy77yJCiMg5rqQ6Ieq44CK5LiJ5pa55oqV6aG+5pWw5pm65YyW6L2s5Z6L5oiY55Wl44CL5a6e5oiYUFBU5rKJ5reACm5hbWU6IGNvbnN1bHRpbmdfdGVjaF9kYXJrCmRpc3BsYXlfbmFtZTog5ZKo6K+i56eR5oqA6aOO77yI5pqX6Imy77yJCnZlcnNpb246IDEKc291cmNlOiBtYW51YWwKZXh0cmFjdGVkX2F0OiBudWxsCmtleXdvcmRzOiBb5ZKo6K+iLCDnp5HmioAsIOaal+iJsiwg5rex6ImyLCDmiJjnlaUsIOaVsOWtl+WMlui9rOWeiywg6YeR6J6NLCDpnZLnu78sIHRlYWwsIOWSqOivoumjjl0KCnNsaWRlOgogIHdpZHRoX2luOiAxMC4wCiAgaGVpZ2h0X2luOiA1LjYyNQogIGFzcGVjdDogIjE2OjkiCgpwYWxldHRlOgogIGJhY2tncm91bmRfZGFyazogIjBGMTcyQSIgICAgICAgICMgc2xhdGUtOTAw77yM5bCB6Z2iL+WIhumalC/nu5PlsL4KICBiYWNrZ3JvdW5kX2xpZ2h0OiAiRjhGQUZDIiAgICAgICAjIOWGheWuuemhtQogIGNhcmRfZGFyazogIjFFMjkzQiIgICAgICAgICAgICAgICMgc2xhdGUtODAwCiAgY2FyZF9saWdodDogIkZGRkZGRiIKICBwcmltYXJ5OiAiMEQ5NDg4IiAgICAgICAgICAgICAgICAjIHRlYWwtNjAwCiAgcHJpbWFyeV9saWdodDogIjE0QjhBNiIgICAgICAgICAgIyB0ZWFsLTUwMAogIHByaW1hcnlfYnJpZ2h0OiAiMkRENEJGIiAgICAgICAgICMgdGVhbC00MDAKICBhY2NlbnQ6ICJGNTlFMEIiICAgICAgICAgICAgICAgICAjIGFtYmVyLTUwMAogIGFjY2VudDI6ICIzQjgyRjYiICAgICAgICAgICAgICAgICMgYmx1ZS01MDAKICBzdWNjZXNzOiAiMTBCOTgxIiAgICAgICAgICAgICAgICAjIGdyZWVuLTUwMAogIHdhcm5pbmc6ICJFRjQ0NDQiICAgICAgICAgICAgICAgICMgcmVkLTUwMAogIHB1cnBsZTogIjhCNUNGNiIgICAgICAgICAgICAgICAgICMg5qCH562+57SrCiAgdGV4dF9tYWluOiAiMzM0MTU1IiAgICAgICAgICAgICAgIyBzbGF0ZS03MDAKICB0ZXh0X3N1YjogIjY0NzQ4QiIgICAgICAgICAgICAgICAjIHNsYXRlLTUwMAogIHRleHRfb25fZGFyazogIkZGRkZGRiIKICB0ZXh0X29uX2Rhcmtfc3ViOiAiOTRBM0I4IiAgICAgICAjIHNsYXRlLTQwMAogIGNhcmRfYmdfbGlnaHQ6ICJGMUY1RjkiICAgICAgICAgICMgc2xhdGUtMTAwCgpmb250czoKICBsYXRpbjogQXJpYWwKICBjams6IE5vdG8gU2FucyBTQwogIGNqa19mYWxsYmFjazogUGluZ0ZhbmcgU0MKICB0aXRsZV9tYXhfcHQ6IDQwCiAgdGl0bGVfbWluX3B0OiAyNAogIGJvZHlfcHQ6IDExCiAgY2FwdGlvbl9wdDogOQoKbGF5b3V0OgogIGNvdmVyOgogICAgYmFja2dyb3VuZDogaW1hZ2VfZGFyawogICAgb3ZlcmxheV90cmFuc3BhcmVuY3k6IDQ1CiAgICBpbWFnZV90cmFuc3BhcmVuY3k6IDEwCiAgICBlbGVtZW50czogW3RvcF9iYXIsIHRhZywgdGl0bGUsIHN1YnRpdGxlLCBtZXRyaWNfY2FyZHNdCiAgICBtZXRyaWNfY2FyZHM6IDMKICBjb250ZW50OgogICAgYmFja2dyb3VuZDogbGlnaHQKICAgIHRpdGxlX2JhcjogdHJ1ZQogICAgY2FyZF9zdHlsZTogcm91bmRlZF9zaGFkb3cKICBzZWN0aW9uX2RpdmlkZXI6CiAgICBiYWNrZ3JvdW5kOiBpbWFnZV9kYXJrCiAgICBvdmVybGF5X3RyYW5zcGFyZW5jeTogNDUKICAgIGltYWdlX3RyYW5zcGFyZW5jeTogMTAKICAgIGVsZW1lbnRzOiBbcGFydF9ubywgdGl0bGUsIGRpdmlkZXJfbGluZSwgZGVzY3JpcHRpb25dCiAgY2xvc2luZzoKICAgIGJhY2tncm91bmQ6IGltYWdlX2RhcmsKICAgIG92ZXJsYXlfdHJhbnNwYXJlbmN5OiA0NQoKaW1hZ2VyeToKICBtb2RlOiB3b3JrYnVkZHkKICBiYWNrZ3JvdW5kX3RyYW5zcGFyZW5jeTogMTAKICBpbGx1c3RyYXRpb25fdHJhbnNwYXJlbmN5OiAzMAogIGljb25fY29sb3Jfb25fbGlnaHQ6ICIwRDk0ODgiCiAgaWNvbl9jb2xvcl9vbl9kYXJrOiAiRkZGRkZGIgogIHByb21wdF9zdHlsZTogImFic3RyYWN0IGRpZ2l0YWwgYXJ0LCB0ZWFsIGFuZCBkYXJrIHNsYXRlIHRvbmVzLCBmdXR1cmlzdGljLCBwcm9mZXNzaW9uYWwsIGhpZ2ggcmVzb2x1dGlvbiwgMTY6OSwgbm8gdGV4dCwgbm8gd2F0ZXJtYXJrIgoKZXh0cmFjdGlvbjogbnVsbAo=
+# 内置风格A：咨询科技风（暗色）
+# 源自《三方投顾数智化转型战略》实战PPT沉淀
+name: consulting_tech_dark
+display_name: 咨询科技风（暗色）
+version: 1
+source: manual
+extracted_at: null
+keywords: [咨询, 科技, 暗色, 深色, 战略, 数字化转型, 金融, 青绿, teal, 咨询风]
+
+slide:
+  width_in: 10.0
+  height_in: 5.625
+  aspect: "16:9"
+
+palette:
+  background_dark: "0F172A"        # slate-900，封面/分隔/结尾
+  background_light: "F8FAFC"       # 内容页
+  card_dark: "1E293B"              # slate-800
+  card_light: "FFFFFF"
+  primary: "0D9488"                # teal-600
+  primary_light: "14B8A6"          # teal-500
+  primary_bright: "2DD4BF"         # teal-400
+  accent: "F59E0B"                 # amber-500
+  accent2: "3B82F6"                # blue-500
+  success: "10B981"                # green-500
+  warning: "EF4444"                # red-500
+  purple: "8B5CF6"                 # 标签紫
+  text_main: "334155"              # slate-700
+  text_sub: "64748B"               # slate-500
+  text_on_dark: "FFFFFF"
+  text_on_dark_sub: "94A3B8"       # slate-400
+  card_bg_light: "F1F5F9"          # slate-100
+
+fonts:
+  latin: Arial
+  cjk: Noto Sans SC
+  cjk_fallback: PingFang SC
+  title_max_pt: 40
+  title_min_pt: 24
+  body_pt: 11
+  caption_pt: 9
+
+layout:
+  cover:
+    background: image_dark
+    overlay_transparency: 45
+    image_transparency: 10
+    elements: [top_bar, tag, title, subtitle, metric_cards]
+    metric_cards: 3
+  content:
+    background: light
+    title_bar: true
+    card_style: rounded_shadow
+  section_divider:
+    background: image_dark
+    overlay_transparency: 45
+    image_transparency: 10
+    elements: [part_no, title, divider_line, description]
+  closing:
+    background: image_dark
+    overlay_transparency: 45
+
+imagery:
+  mode: workbuddy
+  background_transparency: 10
+  illustration_transparency: 30
+  icon_color_on_light: "0D9488"
+  icon_color_on_dark: "FFFFFF"
+  prompt_style: "abstract digital art, teal and dark slate tones, futuristic, professional, high resolution, 16:9, no text, no watermark"
+
+extraction: null
