@@ -1,1 +1,14 @@
-ewogICJuYW1lIjogImhpZ2gtcXVhbGl0eS1wcHQtc2tpbGwiLAogICJ2ZXJzaW9uIjogIjMuNS4yIiwKICAiZGVzY3JpcHRpb24iOiAiSGlnaC1xdWFsaXR5IHRlY2gtc3R5bGUgUFBUIGdlbmVyYXRpb24gZW5naW5lIChQcHR4R2VuSlMgKyByZWFjdC1pY29ucyArIHNoYXJwICsgSW1hZ2VHZW4pIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgImxpY2Vuc2UiOiAiTUlUIiwKICAiZGVwZW5kZW5jaWVzIjogewogICAgInBwdHhnZW5qcyI6ICJeNC4wLjEiLAogICAgInJlYWN0IjogIl4xOS4yLjYiLAogICAgInJlYWN0LWRvbSI6ICJeMTkuMi42IiwKICAgICJyZWFjdC1pY29ucyI6ICJeNS42LjAiLAogICAgInNoYXJwIjogIl4wLjM0LjUiCiAgfQp9Cg==
+{
+  "name": "high-quality-ppt-skill",
+  "version": "3.5.2",
+  "description": "High-quality tech-style PPT generation engine (PptxGenJS + react-icons + sharp + ImageGen)",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-icons": "^5.6.0",
+    "sharp": "^0.34.5"
+  }
+}
