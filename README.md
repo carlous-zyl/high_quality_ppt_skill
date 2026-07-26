@@ -1,1 +1,107 @@
-IyDpq5jotKjph4/np5HmioDpo45QUFTnlJ/miJDlvJXmk47vvIhoaWdoLXF1YWxpdHktcHB0LXNraWxs77yJCgrku47oh6rnhLbor63oqIDpnIDmsYLmiJbnu5PmnoTljJblpKfnurLvvIzoh6rliqjnlJ/miJAqKuWSqOivouWFrOWPuOWTgei0qCoq55qE5LiT5Lia57qn5Y+v57yW6L6RIFBQVFjjgILpgJrnlKjmioDog73ljIXvvIzml6Dmmbrog73kvZPnu5Hlrprnm67lvZXvvIzlj6/ooqsgV29ya0J1ZGR5IC8gT3BlbkNsYXcgLyBIZXJtZXMg562J5pm66IO95L2T55u05o6l5Yqg6L2944CC5YW85a65IG1hY09TIOS4jiBXaW5kb3dz44CCCgoqKuW9k+WJjeeJiOacrO+8mnYzLjUuMioq77yI54mI5pys6K6w5b2V6KeB5paH5pyr77yJCgojIyDmoLjlv4Pog73lipsKCi0gKirlj4zmqKHlvI/nlJ/miJAqKu+8mkpTIOebtOaOpeeUn+aIkO+8iOaOqOiNkO+8jOinhuinieacgOS9s++8iSsgUHl0aG9uIDbmraUgUGlwZWxpbmXvvIjlrozmlbTpnIDmsYLnrqHmjqfvvIkKLSAqKumjjuagvOagt+S+i+W6kyBgc3R5bGVzL2DvvIg1IOWll++8iSoq77ya5oyJ55So5oi36aOO5qC86KaB5rGC6Ieq5Yqo5Yy56YWN77ybMiDlpZflhoXnva4gKyAzIOWll+aooeeJiOaPkOWPlu+8jOaUr+aMgeS7juiHquaciSBQUFQg5qih54mI5o+Q5Y+W5paw6aOO5qC85YWl5bqTCi0gKio4IOenjSBKUyDluIPlsYAgLyA3IOenjSBQeXRob24g5biD5bGAKirvvJpjb3ZlciAvIGFnZW5kYSAvIHNlY3Rpb25fZGl2aWRlciAvIGRhdGFfY2FyZHMgLyBjb21wYXJpc29uIC8gdGhyZWVfY29sdW1uIC8gdGltZWxpbmUgLyBtYXRyaXgg562JCi0gKipBSSDphY3lm77kvZPns7sqKu+8mjUg56eN5Zu+54mH6KeS6ImyIMOXIDMg56eN55Sf5oiQ5qih5byP77yISW1hZ2VHZW4g5qGl5o6lIC8g5aSW6YOoIEFQSSAvIOWNoOS9je+8ie+8m2BhdXRvX2ltYWdlX3BsYW4uanNgIOaMieWkp+e6sivpo47moLzoh6rliqjop4TliJLmr4/pobXphY3lm77vvIxwcm9tcHQg6Ieq5Yqo5bWM5YWl6aOO5qC86ImyIHRva2VuIOS/deivgeiJsuiwg+e7n+S4gAotICoq5YaF5bWM5Zu+5qCH5bqTKirvvJo2MiDlhbPplK7or40g4oaSIDU3IOS4qiBNYXRlcmlhbCBEZXNpZ24g57q/5oCnIFNWRyDlm77moIfvvIzkuLvoibLlj6/mm7/mjaIKLSAqKuWOn+eUn+WbvuihqCoq77yaUHB0eEdlbkpTIOWOn+eUn+WbvuihqCDmiJYgbWF0cGxvdGxpYiDlm5vku7blpZfvvIhQTkcrU1ZHK0NTVivmupDnoIHvvIkKLSAqKua8lOiusuWkh+azqCoq77ya5q+P6aG16YWN5aWX6K+d5pyvL+WBnOmhv+eCuS/kupLliqjorr7orqEKLSAqKue6puadn+inhOWImeW8leaTjioq77ya6YeR5a2X5aGU5Y6f55CG44CB5L+h5oGv5a+G5bqm44CB5a+55q+U5bqm77yIV0NBRyAyLjEgQUHvvInjgIHlk4HniYzlkIjop4Tlhajph4/moKHpqowKCiMjIOebruW9lee7k+aehAoKYGBgCmhpZ2gtcXVhbGl0eS1wcHQtc2tpbGwvCuKUnOKUgOKUgCBTS0lMTC5tZCAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmioDog73lrprkuYnvvIjmmbrog73kvZPliqDovb3lhaXlj6PvvIkK4pSc4pSA4pSAIHN0eWxlcy8gICAgICAgICAgICAgICAgICAgICAgICAgICAjIFBQVOmjjuagvOagt+S+i+W6k++8iDXlpZcgKyDms6jlhozooaggKyDmqKHmnb/vvIkK4pSCAgI4pSc4pSA4pSAIHJlZ2lzdHJ5LnlhbWwgICAgICAgICAgICAgICAgICMg6aOO5qC85rOo5YaM6KGo77yI5YWz6ZSu6K+N5Yy56YWNL+WbnumAgOetlueVpe+8iQrilIIgICDilJzilIDilIAgX3RlbXBsYXRlL3N0eWxlLnlhbWwgICAgICAgICAgIyDmlrDpo47moLwgc2NoZW1hIOaooeadvwrilIIgICDilJzilIDilIAgY29uc3VsdGluZ190ZWNoX2RhcmsvICAgICAgICAgIyDlhoXnva7vvJrlkqjor6Lnp5HmioDpo47vvIjmmpfoibLvvIzpu5jorqTlm57pgIDvvIkK4pSCAgI4pSc4pSA4pSAIGdyZWVuX3Byb2Zlc3Npb25hbC8gICAgICAgICAgICMg5YaF572u77ya57u/6Imy5LiT5Lia6aOOCuKUgiAgIOKUnOKUgOKUgCBpbnRlcm5ldF90ZWNoX2JsdWUvICAgICAgICAgICAjIOaPkOWPlu+8muS6kuiBlOe9keenkeaKgOmjju+8iOS6ruiTne+8iQrilIIgICDilJzilIDilIAgYnVzaW5lc3NfcGxhbm5pbmdfYmx1ZS8gICAgICAgIyDmj5Dlj5bvvJrllYbkuJrnrZbliJLpo47vvIjmt7Hok53vvIkK4pSCAgI4pSc4pSA4pSAIG5hdnlfY29ycG9yYXRlLyAgICAgICAgICAgICAgICMg5o+Q5Y+W77ya5rW35Yab6JOd5ZWG5Yqh6aOO77yI5rex5rW35Yab6JOdK+apme+8iQrilJzilIDilIAgdXBsb2Fkcy8gICAgICAgICAgICAgICAgICAgICAgICAgICMg55So5oi3UFBU5qih54mI5LiK5Lyg55uu5b2V77yI5om56YeP6aOO5qC85o+Q5Y+W6L6T5YWl77yJCuKUnOKUgOKUgCBjb25maWcvICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBnbG9iYWxfY29uZmlnLnlhbWwgKyBjb25zdHJhaW50cy55YW1sCuKUnOKUgOKUgCBjb3JlLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyA25q2lUGlwZWxpbmUgLyDlhoXlrrnnlJ/miJAgLyDluIPlsYDorr7orqEK4pSc4pSA4pSAIHRvb2xzLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIDcg5Liq5bel5YW35qih5Z2X77yI5ZCrIGF1dG9faW1hZ2VfcGxhbi5qcyAvIHZhbGlkYXRlX2xheW91dC5wee+8iQrilJzilIDilIAgdmFsaWRhdG9ycy8gICAgICAgICAgICAgICAgICAgICAgICMg5LiA6Ie05oCnICsg5ZCI6KeE5oCn5qCh6aqMCuKUnOKUgOKUgCBleGFtcGxlcy8gICAgICAgICAgICAgICAgICAgICAgICAgIyAz5Liq55Sf5oiQ56S65L6LICsgcmVmZXJlbmNlX2xheW91dHMvIOWPguiAg+iuvuiuoee0oOadkArilJzilIDilIAgdGVzdHMvICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgMjnkuKrmtYvor5XnlKjkvovvvIhFMkUr5Y2V5YWD77yJCuKUnOKUgOKUgCBnZW5lcmF0ZV9wcHQuanMgICAgICAgICAgICAgICAgICAgIyBKU+ebtOaOpeeUn+aIkOWPguiAg+iEmuacrArilJzilIDilIAgSGFybmVzc0NvbmZpZy5tZCAgICAgICAgICAgICAgICAgICMgSGFybmVzc+aJp+ihjOinhOiMg++8iDbmraUr57qm5p2f5byV5pOO77yJCuKUlOKUgOKUgCBvdXRwdXQvICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDkuqflh7rnm67lvZXvvIhQUFQv5Zu+54mHL+WbvuihqC/lpIfms6jvvIkKYGBgCgojIyDlv6vpgJ/lvIDlp4sKCiMjIyDmlrnlvI8x77yaSlMg55u05o6l55Sf5oiQ77yI5o6o6I2Q77yJCgrlnKgqKueUqOaIt+W3peS9nOebruW9lSoq5omn6KGM77yaCgpgYGBiYXNoCm5wbSBpbnN0YWxsIHBwdHhnZW5qcyByZWFjdCByZWFjdC1kb20gcmVhY3QtaWNvbnMgc2hhcnAganMteWFtbApub2RlIGdlbmVyYXRlX3BwdC5qcyAgICMg5oyJIFNLSUxMLm1kIFN0ZXAgNC03IOe8luWGmQpgYGAKCuaKgOiDvei1hOa6kO+8iHN0eWxlcy/jgIF0b29scy/vvInpgJrov4fmioDog73moLnnm67lvZXnu53lr7not6/lvoTlvJXnlKjvvIzkuI3opoHlpI3liLbliLDlt6XkvZznm67lvZXjgIIKCiMjIyDmlrnlvI8y77yaUHl0aG9uIDbmraUgUGlwZWxpbmUKCmBgYGJhc2gKcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dApweXRob24gZXhhbXBsZXMvdGVjaF9yZXBvcnRfZXhhbXBsZS5weQpgYGAKCiMjIyDmlrnlvI8z77yaSlNPTiDihpIgUFBUCgpgYGBiYXNoCnB5dGhvbiBleGFtcGxlcy9nZW5lcmF0ZV9mcm9tX2pzb24ucHkKYGBgCgojIyDpo47moLzmoLfkvovlupPnlKjms5UKCiMjIyDmjInpo47moLzopoHmsYLpgInmi6kKCuaKgOiDveivu+WPliBgc3R5bGVzL3JlZ2lzdHJ5LnlhbWxg77yM55So55So5oi355qE6aOO5qC85o+P6L+w5Yy56YWN5ZCE6aOO5qC8IGBrZXl3b3Jkc2DvvIzlkb3kuK3mnIDlpJrogIXog5zvvJvml6Dlkb3kuK3lm57pgIAgYGNvbnN1bHRpbmdfdGVjaF9kYXJrYO+8m+W5s+aJi+aXtuS8mOWFiOaPkOWPlumjjuagvOOAggoKIyMjIOS7juaooeeJiOaPkOWPluaWsOmjjuagvAoKYGBgYmFzaAojIOWNleaWh+S7tu+8iOWPr+aMh+WumumjjuagvElE5LiO5YWz6ZSu6K+N77yJCnB5dGhvbjMgdG9vbHMvc3R5bGVfZXh0cmFjdG9yLnB5IHVwbG9hZHMv5aSu5LyB5qih54mILnBwdHggLS1uYW1lIHNvZV9ibHVlIC0ta2V5d29yZHMgIuWkruS8gSzok53oibIs5ZWG5YqhIgoKIyDmibnph4/vvIh1cGxvYWRzLyDmlbTkuKrnm67lvZXkuIDplK7lhaXlupPvvIzluYLnrYnot7Pov4flt7Lmj5Dlj5bmlofku7bvvIkKcHl0aG9uMyB0b29scy9zdHlsZV9leHRyYWN0b3IucHkgLS1iYXRjaApgYGAKCuaPkOWPluWGheWuue+8mnRoZW1lIOS4u+mimOiJsuOAgeWtl+S9k+OAgeWunumZheeUqOiJsumikeasoeOAgemhtemdouWwuuWvuOOAgeWbvueJh+WvhuW6piDihpIgYHN0eWxlcy886aOO5qC8SUQ+L3N0eWxlLnlhbWxgICsg6Ieq5Yqo55m76K6wIHJlZ2lzdHJ544CCCgojIyDmtYvor5UKCmBgYGJhc2gKcHl0aG9uIC1tIHB5dGVzdCB0ZXN0cy8gLXEgICAjIDI5IHBhc3NlZApgYGAKCiMjIOeJiOacrOiusOW9lQoKLSAqKnYzLjUuMioqICgyMDI2LTA3LTI1Ke+8muS/ruatoyBQcHR4R2VuSlMgdHJhbnNwYXJlbmN5IOWPguaVsOS9jee9riBidWfvvIjpobvlhpnlnKggYGZpbGxgIOWvueixoeWGhe+8ie+8m+a3seiJsuiDjOaZr+mhteaUueeUqCBoZXJvK292ZXJsYXkg5qih5byP77yM6YWN5Zu+5Y+v6KeB5bqm5pi+6JGX5o+Q5Y2HCi0gKip2My41LjEqKiAoMjAyNi0wNy0yNCnvvJrmlrDlop7jgIzluLjop4HpmbfpmLHkuI7pooTpmLLjgI3nq6DoioLvvJvmlrDlop4gYHRvb2xzL3ZhbGlkYXRlX2xheW91dC5weWAg5biD5bGA5qCh6aqM77yb5paw5aKeIGBuYXZ5X2NvcnBvcmF0ZWAg6aOO5qC877yI56ysIDUg5aWX77yJCi0gKip2My41LjAqKiAoMjAyNi0wNy0yMynvvJrmlrDlop4gYm9keSDkuLvkvZPlm77op5LoibLkuI4gYHBvc2l0aW9uRm9yTGF5b3V0YCDkvY3nva7op6PmnpDlmajvvJvmlrDlop4gYGV4YW1wbGVzL3JlZmVyZW5jZV9sYXlvdXRzL2Ag5Y+C6ICD6K6+6K6h57Sg5p2QCi0gKip2My40LngqKiAoMjAyNi0wNy0yMynvvJrmlrDlop4gYHRvb2xzL2F1dG9faW1hZ2VfcGxhbi5qc2Ag6Ieq5Yqo6YWN5Zu+6KeE5YiS5LiOIGBhc3NlcnRGaXRzYCDnlLvluIPmuqLlh7rlrojljasKLSAqKnYzLjMuMCoqICgyMDI2LTA3LTIzKe+8muecnyBBSSDnlJ/miJDmlLnpgKDigJTigJTlhoXlrrnpqqjmnrYgKyBgc2V0X2NvbnRlbnRfY2FsbGJhY2tgIOWuv+S4uyBBSSDlm57loavvvIzkuI3kvp3otZblpJbpg6ggTExNIEFQSQotICoqdjMuMi4wKiogKDIwMjYtMDctMjIp77ya5oqA6IO96YCa55So5YyW77yI6YCC6YWN5aSa5pm66IO95L2T5Yqg6L2977yJ77yb5paw5aKeIGBzdHlsZXMvYCDpo47moLzmoLfkvovlupPkuI7mqKHniYjmibnph4/mj5Dlj5bvvJtQeXRob24g54mI5omp6IezIDcg56eN5biD5bGACi0gKip2My4xLjAqKiAoMjAyNi0wNS0yMCnvvJrlrp7njrAgYGljb25fbGlicmFyeS5weWAg5Zu+5qCH5bqTCi0gKip2My4wLjAqKiAoMjAyNi0wNS0wOSnvvJrlhajpnaLph43mnoTigJTigJRKUyDnm7TmjqXnlJ/miJDmqKHlvI/jgIE4IOenjeW4g+WxgOOAgeWOn+eUn+WbvuihqOOAgee6puadn+inhOWImeW8leaTjgotICoqdjEueOKAk3YyLngqKiAoMjAyNi0wNSnvvJrliJ3lp4vniYjmnKzkuI7op4bop4nop4TojIPov63ku6MKCiMjIOiuuOWPr+ivgQoKTUlUCg==
+# 高质量科技风PPT生成引擎（high-quality-ppt-skill）
+
+从自然语言需求或结构化大纲，自动生成**咨询公司品质**的专业级可编辑 PPTX。通用技能包，无智能体绑定目录，可被 WorkBuddy / OpenClaw / Hermes 等智能体直接加载。兼容 macOS 与 Windows。
+
+**当前版本：v3.5.2**（版本记录见文末）
+
+## 核心能力
+
+- **双模式生成**：JS 直接生成（推荐，视觉最佳）+ Python 6步 Pipeline（完整需求管控）
+- **风格样例库 `styles/`（5 套）**：按用户风格要求自动匹配；2 套内置 + 3 套模版提取，支持从自有 PPT 模版提取新风格入库
+- **8 种 JS 布局 / 7 种 Python 布局**：cover / agenda / section_divider / data_cards / comparison / three_column / timeline / matrix 等
+- **AI 配图体系**：5 种图片角色 × 3 种生成模式（ImageGen 桥接 / 外部 API / 占位）；`auto_image_plan.js` 按大纲+风格自动规划每页配图，prompt 自动嵌入风格色 token 保证色调统一
+- **内嵌图标库**：62 关键词 → 57 个 Material Design 线性 SVG 图标，主色可替换
+- **原生图表**：PptxGenJS 原生图表 或 matplotlib 四件套（PNG+SVG+CSV+源码）
+- **演讲备注**：每页配套话术/停顿点/互动设计
+- **约束规则引擎**：金字塔原理、信息密度、对比度（WCAG 2.1 AA）、品牌合规全量校验
+
+## 目录结构
+
+```
+high-quality-ppt-skill/
+├── SKILL.md                          # 技能定义（智能体加载入口）
+├── styles/                           # PPT风格样例库（5套 + 注册表 + 模板）
+│   ├── registry.yaml                 # 风格注册表（关键词匹配/回退策略）
+│   ├── _template/style.yaml          # 新风格 schema 模板
+│   ├── consulting_tech_dark/         # 内置：咨询科技风（暗色，默认回退）
+│   ├── green_professional/           # 内置：绿色专业风
+│   ├── internet_tech_blue/           # 提取：互联网科技风（亮蓝）
+│   ├── business_planning_blue/       # 提取：商业策划风（深蓝）
+│   └── navy_corporate/               # 提取：海军蓝商务风（深海军蓝+橙）
+├── uploads/                          # 用户PPT模版上传目录（批量风格提取输入）
+├── config/                           # global_config.yaml + constraints.yaml
+├── core/                             # 6步Pipeline / 内容生成 / 布局设计
+├── tools/                            # 7 个工具模块（含 auto_image_plan.js / validate_layout.py）
+├── validators/                       # 一致性 + 合规性校验
+├── examples/                         # 3个生成示例 + reference_layouts/ 参考设计素材
+├── tests/                            # 29个测试用例（E2E+单元）
+├── generate_ppt.js                   # JS直接生成参考脚本
+├── HarnessConfig.md                  # Harness执行规范（6步+约束引擎）
+└── output/                           # 产出目录（PPT/图片/图表/备注）
+```
+
+## 快速开始
+
+### 方式1：JS 直接生成（推荐）
+
+在**用户工作目录**执行：
+
+```bash
+npm install pptxgenjs react react-dom react-icons sharp js-yaml
+node generate_ppt.js   # 按 SKILL.md Step 4-7 编写
+```
+
+技能资源（styles/、tools/）通过技能根目录绝对路径引用，不要复制到工作目录。
+
+### 方式2：Python 6步 Pipeline
+
+```bash
+pip install -r requirements.txt
+python examples/tech_report_example.py
+```
+
+### 方式3：JSON → PPT
+
+```bash
+python examples/generate_from_json.py
+```
+
+## 风格样例库用法
+
+### 按风格要求选择
+
+技能读取 `styles/registry.yaml`，用用户的风格描述匹配各风格 `keywords`，命中最多者胜；无命中回退 `consulting_tech_dark`；平手时优先提取风格。
+
+### 从模版提取新风格
+
+```bash
+# 单文件（可指定风格ID与关键词）
+python3 tools/style_extractor.py uploads/央企模版.pptx --name soe_blue --keywords "央企,蓝色,商务"
+
+# 批量（uploads/ 整个目录一键入库，幂等跳过已提取文件）
+python3 tools/style_extractor.py --batch
+```
+
+提取内容：theme 主题色、字体、实际用色频次、页面尺寸、图片密度 → `styles/<风格ID>/style.yaml` + 自动登记 registry。
+
+## 测试
+
+```bash
+python -m pytest tests/ -q   # 29 passed
+```
+
+## 版本记录
+
+- **v3.5.2** (2026-07-25)：修正 PptxGenJS transparency 参数位置 bug（须写在 `fill` 对象内）；深色背景页改用 hero+overlay 模式，配图可见度显著提升
+- **v3.5.1** (2026-07-24)：新增「常见陷阱与预防」章节；新增 `tools/validate_layout.py` 布局校验；新增 `navy_corporate` 风格（第 5 套）
+- **v3.5.0** (2026-07-23)：新增 body 主体图角色与 `positionForLayout` 位置解析器；新增 `examples/reference_layouts/` 参考设计素材
+- **v3.4.x** (2026-07-23)：新增 `tools/auto_image_plan.js` 自动配图规划与 `assertFits` 画布溢出守卫
+- **v3.3.0** (2026-07-23)：真 AI 生成改造——内容骨架 + `set_content_callback` 宿主 AI 回填，不依赖外部 LLM API
+- **v3.2.0** (2026-07-22)：技能通用化（适配多智能体加载）；新增 `styles/` 风格样例库与模版批量提取；Python 版扩至 7 种布局
+- **v3.1.0** (2026-05-20)：实现 `icon_library.py` 图标库
+- **v3.0.0** (2026-05-09)：全面重构——JS 直接生成模式、8 种布局、原生图表、约束规则引擎
+- **v1.x–v2.x** (2026-05)：初始版本与视觉规范迭代
+
+## 许可证
+
+MIT
