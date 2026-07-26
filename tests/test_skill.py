@@ -1,1 +1,139 @@
-aW1wb3J0IHVuaXR0ZXN0CmltcG9ydCBzeXMsIG9zLCB5YW1sCgpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAnLi4nKSkpCgpmcm9tIGNvcmUucGlwZWxpbmUgaW1wb3J0IE9wZW5DbGF3UFBUU2tpbGwKZnJvbSB2YWxpZGF0b3JzLmNvbnNpc3RlbmN5X2NoZWNrZXIgaW1wb3J0IENvbnNpc3RlbmN5Q2hlY2tlcgpmcm9tIHZhbGlkYXRvcnMuY29tcGxpYW5jZV9jaGVja2VyIGltcG9ydCBDb21wbGlhbmNlQ2hlY2tlcgoKY2xhc3MgVGVzdE9wZW5DbGF3UFBUU2tpbGwodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHNldFVwKHNlbGYpOgogICAgICAgIHNlbGYuY29uZmlnX3BhdGggPSAiY29uZmlnL2dsb2JhbF9jb25maWcueWFtbCIKICAgICAgICB3aXRoIG9wZW4oc2VsZi5jb25maWdfcGF0aCwgInIiLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBzZWxmLmNvbmZpZyA9IHlhbWwuc2FmZV9sb2FkKGYpCiAgICAgICAgc2VsZi5za2lsbCA9IE9wZW5DbGF3UFBUU2tpbGwoY29uZmlnX3BhdGg9c2VsZi5jb25maWdfcGF0aCkKICAgICAgICBzZWxmLnNraWxsLnNldF9jb25maXJtX2NhbGxiYWNrKGxhbWJkYSBjaGVja19wb2ludCwgZGV0YWlsczogVHJ1ZSkKICAgICAgICBzZWxmLmNvbnNpc3RlbmN5X2NoZWNrZXIgPSBDb25zaXN0ZW5jeUNoZWNrZXIoc2VsZi5jb25maWcpCiAgICAgICAgc2VsZi5jb21wbGlhbmNlX2NoZWNrZXIgPSBDb21wbGlhbmNlQ2hlY2tlcihzZWxmLmNvbmZpZykKCiAgICBkZWYgdGVzdF9zdGVwMV9yZXF1aXJlbWVudF9hbGlnbm1lbnRfc3VjY2VzcyhzZWxmKToKICAgICAgICB2YWxpZF9yZXF1aXJlbWVudCA9IHsKICAgICAgICAgICAgIuaguOW/g+S4u+mimCI6ICLmtYvor5XkuLvpopgiLAogICAgICAgICAgICAi55uu5qCH5Y+X5LyXIjogIua1i+ivleWPl+S8lyIsCiAgICAgICAgICAgICLmsYfmiqXml7bplb8iOiAiMTDliIbpkp8iLAogICAgICAgICAgICAi5oC76aG15pWwIjogNSwKICAgICAgICAgICAgIuS6pOS7mOagvOW8jyI6ICIucHB0eCIsCiAgICAgICAgICAgICLlk4HniYxWSSI6ICLpu5jorqTlkqjor6Lnp5HmioDpo44iLAogICAgICAgICAgICAi5YaF5a6556aB5b+MIjogIuaXoCIKICAgICAgICB9CiAgICAgICAgcmVzdWx0ID0gc2VsZi5za2lsbC5fc3RlcDFfcmVxdWlyZW1lbnRfYWxpZ25tZW50KHZhbGlkX3JlcXVpcmVtZW50KQogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKHJlc3VsdCkKCiAgICBkZWYgdGVzdF9zdGVwMV9yZXF1aXJlbWVudF9hbGlnbm1lbnRfZmFpbHVyZShzZWxmKToKICAgICAgICBpbnZhbGlkX3JlcXVpcmVtZW50ID0gewogICAgICAgICAgICAi5qC45b+D5Li76aKYIjogIua1i+ivleS4u+mimCIsCiAgICAgICAgICAgICAi55uu5qCH5Y+X5LyXIjogIua1i+ivleWPl+S8lyIKICAgICAgICB9CiAgICAgICAgcmVzdWx0ID0gc2VsZi5za2lsbC5fc3RlcDFfcmVxdWlyZW1lbnRfYWxpZ25tZW50KGludmFsaWRfcmVxdWlyZW1lbnQpCiAgICAgICAgc2VsZi5hc3NlcnRJc05vbmUocmVzdWx0KQogICAgZGVmIHRlc3RfY29uc2lzdGVuY3lfY2hlY2tlcihzZWxmKToKICAgICAgICBtb2NrX3BhZ2VfY29udGVudCA9IHsicGFnZTEiOiB7ImZvbnQiOiB7InRpdGxlIjogc2VsZi5jb25maWdbInZpX3NwZWMiXVsidGl0bGVfZm9udCJdLCAiYm9keSI6IHNlbGYuY29uZmlnWyJ2aV9zcGVjIl1bImJvZHlfZm9udCJdfX19CiAgICAgICAgbW9ja19sYXlvdXRfc3BlYyA9IHsicGFnZTEiOiB7ImNvbG9ycyI6IFtzZWxmLmNvbmZpZ1sidmlfc3BlYyJdWyJwcmltYXJ5X2NvbG9yIl1dLCAibWFyZ2luIjogc2VsZi5jb25maWdbInZpX3NwZWMiXVsicGFnZV9tYXJnaW4iXX19CiAgICAgICAgcmVzdWx0ID0gc2VsZi5jb25zaXN0ZW5jeV9jaGVja2VyLmNoZWNrKG1vY2tfcGFnZV9jb250ZW50LCBtb2NrX2xheW91dF9zcGVjKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQpCgogICAgZGVmIHRlc3RfY29tcGxpYW5jZV9jaGVja2VyKHNlbGYpOgogICAgICAgIG1vY2tfcGFnZV9jb250ZW50ID0geyJwYWdlMSI6IHsiYm9keSI6ICLov5nmmK/kuIDmrrXmtYvor5XmloflrZfvvIzlrZfmlbDovoPlsJEifX0KICAgICAgICBtb2NrX2xheW91dF9zcGVjID0geyJwYWdlMSI6IHsiY29udHJhc3RfcmF0aW8iOiA1LjAsICJtaW5fZm9udF9zaXplIjogMTYsICJsb2dvX3Bvc2l0aW9uIjogc2VsZi5jb25maWdbInZpX3NwZWMiXVsibG9nb19wb3NpdGlvbiJdfX0KICAgICAgICBtb2NrX21hdGVyaWFscyA9IHt9CiAgICAgICAgcmVzdWx0ID0gc2VsZi5jb21wbGlhbmNlX2NoZWNrZXIuY2hlY2sobW9ja19wYWdlX2NvbnRlbnQsIG1vY2tfbGF5b3V0X3NwZWMsIG1vY2tfbWF0ZXJpYWxzKQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShyZXN1bHQpCgogICAgZGVmIHRlc3RfY29udGVudF9nZW5lcmF0b3JfdGVtcGxhdGVfZmFsbGJhY2tfbm9fZmFrZV9kYXRhKHNlbGYpOgogICAgICAgIGZyb20gY29yZS5jb250ZW50X2dlbmVyYXRvciBpbXBvcnQgQ29udGVudEdlbmVyYXRvciwgUExBQ0VIT0xERVJfTUFSSwogICAgICAgIGdlbiA9IENvbnRlbnRHZW5lcmF0b3Ioc2VsZi5jb25maWcpCiAgICAgICAgb3V0bGluZSA9IGdlbi5nZW5lcmF0ZV9vdXRsaW5lKHsKICAgICAgICAgICAgIuaguOW/g+S4u+mimCI6ICLmmbrmhafkvpvlupTpk77lubPlj7AiLCAi5oC76aG15pWwIjogOCwgIuebruagh+WPl+S8lyI6ICLmioDmnK/otJ/otKPkuroiCiAgICAgICAgfSkKICAgICAgICBwYWdlcyA9IGdlbi5nZW5lcmF0ZV9wYWdlX2NvbnRlbnQob3V0bGluZSwgewogICAgICAgICAgICAi5qC45b+D5Li76aKYIjogIuaZuuaFp+S+m+W6lOmTvuW5s+WPsCIsICLnm67moIflj5fkvJciOiAi5oqA5pyv6LSf6LSj5Lq6IiwgIuWGheWuueemgeW/jCI6ICIiCiAgICAgICAgfSkKICAgICAgICBzb2x1dGlvbiA9IFtjIGZvciBjIGluIHBhZ2VzLnZhbHVlcygpIGlmIGMuZ2V0KCJnZW5lcmF0aW9uX21vZGUiKSA9PSAidGVtcGxhdGVfZmFsbGJhY2siXQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShsZW4oc29sdXRpb24pID4gMCkKICAgICAgICBqb2luZWQgPSAiIi5qb2luKHN0cihjLmdldCgiYm9keSIsICIiKSkgZm9yIGMgaW4gcGFnZXMudmFsdWVzKCkpCiAgICAgICAgc2VsZi5hc3NlcnRJbihQTEFDRUhPTERFUl9NQVJLLCBqb2luZWQpCiAgICAgICAgZm9yIGZha2UgaW4gKCJLYWZrYStGbGluayIsICI4MyUg4oaSIDk4LjUlIiwgIuW5tOKKi+echeS6puiDsiIsICJUZW5zb1JSVCIpOgogICAgICAgICAgICBzZWxmLmFzc2VydE5vdEluKGZha2UsIGpvaW5lZCwgZiLku43mrovnlZnml6fniYjlgYfmlbDmja46IHtmYWtlfSIpCgogICAgZGVmIHRlc3RfY29udGVudF9nZW5lcmF0b3JfaG9zdF9haV9jYWxsYmFjayhzZWxmKToKICAgICAgICBmcm9tIGNvcmUuY29udGVudF9nZW5lcmF0b3IgaW1wb3J0IENvbnRlbnRHZW5lcmF0b3IsIFBMQUNFSE9MREVSX01BUksKICAgICAgICBnZW4gPSBDb250ZW50R2VuZXJhdG9yKHNlbGYuY29uZmlnKQogICAgICAgIGRlZiBmYWtlX2hvc3RfYWkocGFnZV90eXBlLCB0aGVtZSwgYXVkaWVuY2UsIHRpdGxlKToKICAgICAgICAgICAgcmV0dXJuIHsiYm9keSI6IGYi5pKI5a+5e3RoZW1lfWdm5L2N5L+d6IyK5a6e5a+85a655Y+X5LyX5Lmh55qE55yf5a6e5YaF5a65In0KICAgICAgICBnZW4uc2V0X2NvbnRlbnRfY2FsbGJhY2soZmFrZV9ob3N0X2FpKQogICAgICAgIG91dGxpbmUgPSBnZW4uZ2VuZXJhdGVfb3V0bGluZSh7CiAgICAgICAgICAgICLmoLjlv4PkuLvpopgiOiAi5pm65oWn5L6b5bqU6ZO+5bmz5Y+wIiwgIuaAu+mhteaVsCI6IDgsICLnm67moIflj5fkvJciOiAi5oqA5pyv6LSf6LSj5Lq6IgogICAgICAgIH0pCiAgICAgICAgcGFnZXMgPSBnZW4uZ2VuZXJhdGVfcGFnZV9jb250ZW50KG91dGxpbmUsIHsKICAgICAgICAgICAgIuaguOW/g+S4u+mimCI6ICLmmbrmhafkvpvlupTpk77lubPlj7AiLCAi55uu5qCH5Y+X5LyXIjogIuaKgOacr+i0n+i0o+S6uiIsICLlhoXlrrnnpoHlv4wiOiAiIgogICAgICAgIH0pCiAgICAgICAgaG9zdF9wYWdlcyA9IFtjIGZvciBjIGluIHBhZ2VzLnZhbHVlcygpIGlmIGMuZ2V0KCJnZW5lcmF0aW9uX21vZGUiKSA9PSAiaG9zdF9haSJdCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKGxlbihob3N0X3BhZ2VzKSA+IDApCiAgICAgICAgZm9yIGMgaW4gaG9zdF9wYWdlczoKICAgICAgICAgICAgc2VsZi5hc3NlcnRJbigi5pm65oWn5L6b5bqU6ZO+5bmz5Y+wIiwgY1siYm9keSJdKQogICAgICAgICAgICBzZWxmLmFzc2VydE5vdEluKFBMQUNFSE9MREVSX01BUkssIGNbImJvZHkiXSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgdW5pdHRlc3QubWFpbigpCg==
+import unittest
+import sys
+import os
+import yaml
+
+# 添加项目根目录到路径
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from core.pipeline import OpenClawPPTSkill
+from validators.consistency_checker import ConsistencyChecker
+from validators.compliance_checker import ComplianceChecker
+
+class TestOpenClawPPTSkill(unittest.TestCase):
+    def setUp(self):
+        """测试前初始化"""
+        self.config_path = "config/global_config.yaml"
+        with open(self.config_path, "r", encoding="utf-8") as f:
+            self.config = yaml.safe_load(f)
+        self.skill = OpenClawPPTSkill(config_path=self.config_path)
+        # human_confirm 模式下注入自动确认回调，避免测试阻塞在终端 input()
+        self.skill.set_confirm_callback(lambda check_point, details: True)
+        self.consistency_checker = ConsistencyChecker(self.config)
+        self.compliance_checker = ComplianceChecker(self.config)
+
+    def test_step1_requirement_alignment_success(self):
+        """测试需求对齐成功"""
+        valid_requirement = {
+            "核心主题": "测试主题",
+            "目标受众": "测试受众",
+            "汇报时长": "10分钟",
+            "总页数": 5,
+            "交付格式": ".pptx",
+            "品牌VI": "默认咨询科技风",
+            "内容禁忌": "无"
+        }
+        result = self.skill._step1_requirement_alignment(valid_requirement)
+        self.assertIsNotNone(result)
+
+    def test_step1_requirement_alignment_failure(self):
+        """测试需求对齐失败（缺少参数）"""
+        invalid_requirement = {
+            "核心主题": "测试主题",
+            "目标受众": "测试受众"
+        }
+        result = self.skill._step1_requirement_alignment(invalid_requirement)
+        self.assertIsNone(result)
+
+    def test_consistency_checker(self):
+        """测试一致性校验"""
+        mock_page_content = {
+            "page1": {"font": {"title": self.config["vi_spec"]["title_font"], "body": self.config["vi_spec"]["body_font"]}}
+        }
+        mock_layout_spec = {
+            "page1": {"colors": [self.config["vi_spec"]["primary_color"]], "margin": self.config["vi_spec"]["page_margin"]}
+        }
+        result = self.consistency_checker.check(mock_page_content, mock_layout_spec)
+        self.assertTrue(result)
+
+    def test_compliance_checker(self):
+        """测试合规性校验"""
+        mock_page_content = {
+            "page1": {"body": "这是一段测试文字，字数较少"}
+        }
+        mock_layout_spec = {
+            "page1": {"contrast_ratio": 5.0, "min_font_size": 16, "logo_position": self.config["vi_spec"]["logo_position"]}
+        }
+        mock_materials = {}
+        result = self.compliance_checker.check(mock_page_content, mock_layout_spec, mock_materials)
+        self.assertTrue(result)
+
+    def test_content_generator_template_fallback_no_fake_data(self):
+        """未注入宿主AI回调时：走模板兜底，含占位水印，且不含旧版编造假数据"""
+        from core.content_generator import ContentGenerator, PLACEHOLDER_MARK
+        gen = ContentGenerator(self.config)
+        outline = gen.generate_outline({
+            "核心主题": "智慧供应链平台", "总页数": 8, "目标受众": "技术负责人"
+        })
+        pages = gen.generate_page_content(outline, {
+            "核心主题": "智慧供应链平台", "目标受众": "技术负责人", "内容禁忌": ""
+        })
+        # 至少一页是核心方案页，应带占位水印且标记 template_fallback
+        solution = [c for c in pages.values() if c.get("generation_mode") == "template_fallback"]
+        self.assertTrue(len(solution) > 0)
+        joined = "".join(str(c.get("body", "")) for c in pages.values())
+        self.assertIn(PLACEHOLDER_MARK, joined)
+        # 关键：不再输出旧版硬编码假数据
+        for fake in ("Kafka+Flink", "83% → 98.5%", "年节省约¥200万", "TensorRT"):
+            self.assertNotIn(fake, joined, f"仍残留旧版假数据: {fake}")
+
+    def test_content_generator_host_ai_callback(self):
+        """注入宿主AI回调时：内容被真实回填，generation_mode=host_ai，无占位残留"""
+        from core.content_generator import ContentGenerator, PLACEHOLDER_MARK
+        gen = ContentGenerator(self.config)
+
+        def fake_host_ai(page_type, theme, audience, title):
+            # 模拟宿主AI：产出与主题强相关的真实内容
+            return {"body": f"针对{theme}面向{audience}的真实内容-{page_type}"}
+
+        gen.set_content_callback(fake_host_ai)
+        outline = gen.generate_outline({
+            "核心主题": "智慧供应链平台", "总页数": 8, "目标受众": "技术负责人"
+        })
+        pages = gen.generate_page_content(outline, {
+            "核心主题": "智慧供应链平台", "目标受众": "技术负责人", "内容禁忌": ""
+        })
+        # 走 _fill 的页面应为 host_ai 且内容含主题、无占位水印
+        host_pages = [c for c in pages.values() if c.get("generation_mode") == "host_ai"]
+        self.assertTrue(len(host_pages) > 0)
+        for c in host_pages:
+            self.assertIn("智慧供应链平台", c["body"])
+            self.assertNotIn(PLACEHOLDER_MARK, c["body"])
+
+    def test_full_pipeline_simulation(self):
+        """测试完整链路（模拟）"""
+        test_requirement = {
+            "核心主题": "AI技术测试汇报",
+            "目标受众": "技术测试人员",
+            "汇报时长": "5分钟",
+            "总页数": 3,
+            "交付格式": ".pptx",
+            "品牌VI": "默认咨询科技风",
+            "内容禁忌": "无"
+        }
+        # content_generator 已完善，链路应可端到端跑通；验证不抛异常并清理产物
+        try:
+            result = self.skill.execute_pipeline(test_requirement)
+            self.assertIsNotNone(result)
+        finally:
+            # 清理本次链路生成的中间产物，保持 output/ 干净
+            import glob
+            for pattern in ("output/*.pptx", "output/images/*", "output/charts/*"):
+                for f in glob.glob(pattern):
+                    try:
+                        os.remove(f)
+                    except OSError:
+                        pass
+
+if __name__ == "__main__":
+    unittest.main()
