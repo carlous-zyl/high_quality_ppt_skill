@@ -70,7 +70,7 @@ const makeShadow = () => ({ type: "outer", blur: 6, offset: 2, angle: 90, color:
 
 function addPageHeader(slide, no, total, sectionTag) {
   // 顶部小橙色横条
-  slide.addShape(pres.Shapes.RECTANGLE, { x: 0, y: 0, w: 0.4, h: 0.06, fill: { color: C.accent } });
+  slide.addShape(pres.shapes.RECTANGLE, { x: 0, y: 0, w: 0.4, h: 0.06, fill: { color: C.accent } });
   // 左上：章节标签
   if (sectionTag) {
     slide.addText(sectionTag, {
@@ -97,7 +97,7 @@ function addPageFooter(slide, no, total, source) {
 
 function addPageTitle(slide, title, subtitle) {
   // 左侧色条
-  slide.addShape(pres.Shapes.RECTANGLE, { x: 0.5, y: 0.55, w: 0.08, h: 0.65, fill: { color: C.primary } });
+  slide.addShape(pres.shapes.RECTANGLE, { x: 0.5, y: 0.55, w: 0.08, h: 0.65, fill: { color: C.primary } });
   slide.addText(title, {
     x: 0.7, y: 0.5, w: 8.6, h: 0.7,
     fontSize: 26, fontFace: "Noto Sans SC", bold: true, color: C.text_main
@@ -109,7 +109,7 @@ function addPageTitle(slide, title, subtitle) {
     });
   }
   // 分隔线
-  slide.addShape(pres.Shapes.RECTANGLE, { x: 0.5, y: 1.6, w: 9.0, h: 0.02, fill: { color: C.divider } });
+  slide.addShape(pres.shapes.RECTANGLE, { x: 0.5, y: 1.6, w: 9.0, h: 0.02, fill: { color: C.divider } });
 }
 
 // ===== Image Loading =====
@@ -167,13 +167,14 @@ async function main() {
     const s = pres.addSlide();
     s.background = { color: C.background_dark };
     if (availableImages.cover) {
+      // hero image 90% 显示 + 深色遮罩 55% 覆盖 → 图片可见度~40%，文字清晰
       s.addImage({ path: availableImages.cover, x: 0, y: 0, w: 10, h: 5.625,
         sizing: { type: "cover", w: 10, h: 5.625 }, transparency: 10 });
-      s.addShape(pres.Shapes.RECTANGLE, {
+      s.addShape(pres.shapes.RECTANGLE, {
         x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.background_dark, transparency: 45 } });
     }
     // 左侧色条
-    s.addShape(pres.Shapes.RECTANGLE, { x: 0.7, y: 2.2, w: 0.06, h: 1.4, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 0.7, y: 2.2, w: 0.06, h: 1.4, fill: { color: C.accent } });
     // 顶部 tagline
     s.addText("ENTERPRISE KNOWLEDGE LAYER · 战略镇汇报", {
       x: 0.7, y: 1.5, w: 8.5, h: 0.4,
@@ -215,7 +216,7 @@ async function main() {
         color: C.accent, align: "left"
       });
       // 编号下方横条
-      s.addShape(pres.Shapes.RECTANGLE, { x, y: 3.15, w: 0.6, h: 0.04, fill: { color: C.primary } });
+      s.addShape(pres.shapes.RECTANGLE, { x, y: 3.15, w: 0.6, h: 0.04, fill: { color: C.primary } });
       // 标题
       s.addText(it.title, {
         x, y: 3.3, w: colW, h: 0.4,
@@ -238,7 +239,7 @@ async function main() {
     if (availableImages.section1) {
       s.addImage({ path: availableImages.section1, x: 0, y: 0, w: 10, h: 5.625,
         sizing: { type: "cover", w: 10, h: 5.625 }, transparency: 10 });
-      s.addShape(pres.Shapes.RECTANGLE, {
+      s.addShape(pres.shapes.RECTANGLE, {
         x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.background_dark, transparency: 45 } });
     }
     s.addText("PART 1", {
@@ -249,7 +250,7 @@ async function main() {
       x: 0.8, y: 2.3, w: 8.4, h: 1.1,
       fontSize: 48, fontFace: "Noto Sans SC", bold: true, color: C.text_on_dark
     });
-    s.addShape(pres.Shapes.RECTANGLE, { x: 0.8, y: 3.5, w: 1.6, h: 0.04, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 0.8, y: 3.5, w: 1.6, h: 0.04, fill: { color: C.accent } });
     s.addText("AI 智能体 · 数据飞轮 · 市场规模 — 三重拐点同步到来", {
       x: 0.8, y: 3.75, w: 8.4, h: 0.5,
       fontSize: 14, fontFace: "Noto Sans SC", color: C.text_on_dark_sub
@@ -271,15 +272,15 @@ async function main() {
     cols.forEach((col, i) => {
       const x = startX + i * (colW + gap);
       // 卡片底
-      s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+      s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
         x, y: cardY, w: colW, h: cardH,
         fill: { color: C.card_light }, rectRadius: 0.08, shadow: makeShadow(),
         line: { color: C.divider, width: 0.5 }
       });
       // 顶部色条
-      s.addShape(pres.Shapes.RECTANGLE, { x, y: cardY, w: colW, h: 0.08, fill: { color: C.accent } });
+      s.addShape(pres.shapes.RECTANGLE, { x, y: cardY, w: colW, h: 0.08, fill: { color: C.accent } });
       // 顶部图标圆 + 图标
-      s.addShape(pres.Shapes.OVAL, { x: x + 0.2, y: cardY + 0.25, w: 0.5, h: 0.5, fill: { color: C.accent } });
+      s.addShape(pres.shapes.OVAL, { x: x + 0.2, y: cardY + 0.25, w: 0.5, h: 0.5, fill: { color: C.accent } });
       s.addImage({ data: icons[col.icon], x: x + 0.27, y: cardY + 0.32, w: 0.36, h: 0.36,
         sizing: { type: "contain", w: 0.36, h: 0.36 } });
       // 标题（图标右侧）
@@ -301,13 +302,13 @@ async function main() {
         fontSize: 9, fontFace: "Noto Sans SC", color: C.text_sub
       });
       // 分隔小线
-      s.addShape(pres.Shapes.RECTANGLE, {
+      s.addShape(pres.shapes.RECTANGLE, {
         x: x + 0.15, y: cardY + 1.95, w: 0.5, h: 0.02, fill: { color: C.accent }
       });
       // 要点列表（最多3条）
       const pts = col.points.slice(0, 3);
       pts.forEach((pt, j) => {
-        s.addShape(pres.Shapes.OVAL, {
+        s.addShape(pres.shapes.OVAL, {
           x: x + 0.15, y: cardY + 2.12 + j * 0.28, w: 0.08, h: 0.08, fill: { color: C.accent }
         });
         s.addText(pt, {
@@ -317,7 +318,7 @@ async function main() {
       });
     });
     // 底部金句 banner（放 4.95 避开页脚）
-    s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+    s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
       x: 0.5, y: 4.95, w: 9.0, h: 0.32,
       fill: { color: C.background_dark }, rectRadius: 0.04
     });
@@ -345,13 +346,13 @@ async function main() {
       const y = startY;
       const colorHex = card.color === "accent" ? C.accent : C.primary;
       // 卡片背景
-      s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+      s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
         x, y, w: colW, h: rowH,
         fill: { color: C.card_light }, rectRadius: 0.08, shadow: makeShadow(),
         line: { color: C.divider, width: 0.5 }
       });
       // 顶部色条
-      s.addShape(pres.Shapes.RECTANGLE, { x, y, w: colW, h: 0.06, fill: { color: colorHex } });
+      s.addShape(pres.shapes.RECTANGLE, { x, y, w: colW, h: 0.06, fill: { color: colorHex } });
       // Tag
       s.addText(card.tag, {
         x: x + 0.2, y: y + 0.18, w: colW - 0.4, h: 0.25,
@@ -373,11 +374,11 @@ async function main() {
       s.addImage({ path: availableImages.p5_banner, x: 0.5, y: 3.62, w: 9.0, h: 0.8,
         sizing: { type: "cover", w: 9.0, h: 0.8 } });
       // 细边框勾勒
-      s.addShape(pres.Shapes.RECTANGLE, { x: 0.5, y: 3.62, w: 9.0, h: 0.02, fill: { color: C.accent } });
-      s.addShape(pres.Shapes.RECTANGLE, { x: 0.5, y: 4.4, w: 9.0, h: 0.02, fill: { color: C.accent } });
+      s.addShape(pres.shapes.RECTANGLE, { x: 0.5, y: 3.62, w: 9.0, h: 0.02, fill: { color: C.accent } });
+      s.addShape(pres.shapes.RECTANGLE, { x: 0.5, y: 4.4, w: 9.0, h: 0.02, fill: { color: C.accent } });
     }
     // 底部金句 banner
-    s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+    s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
       x: 0.5, y: 4.5, w: 9.0, h: 0.6,
       fill: { color: C.background_dark }, rectRadius: 0.05
     });
@@ -397,7 +398,7 @@ async function main() {
     if (availableImages.section2) {
       s.addImage({ path: availableImages.section2, x: 0, y: 0, w: 10, h: 5.625,
         sizing: { type: "cover", w: 10, h: 5.625 }, transparency: 10 });
-      s.addShape(pres.Shapes.RECTANGLE, {
+      s.addShape(pres.shapes.RECTANGLE, {
         x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.background_dark, transparency: 45 } });
     }
     s.addText("PART 2", {
@@ -408,7 +409,7 @@ async function main() {
       x: 0.8, y: 2.3, w: 8.4, h: 1.1,
       fontSize: 48, fontFace: "Noto Sans SC", bold: true, color: C.text_on_dark
     });
-    s.addShape(pres.Shapes.RECTANGLE, { x: 0.8, y: 3.5, w: 1.6, h: 0.04, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 0.8, y: 3.5, w: 1.6, h: 0.04, fill: { color: C.accent } });
     s.addText("七大权威机构共识 × 四维可量化战略价值", {
       x: 0.8, y: 3.75, w: 8.4, h: 0.5,
       fontSize: 14, fontFace: "Noto Sans SC", color: C.text_on_dark_sub
@@ -428,7 +429,7 @@ async function main() {
     const tableW = colW1 + colW2 + colW3 + 0.0; // 6.5
     const startX = 0.5;
     // 表头背景
-    s.addShape(pres.Shapes.RECTANGLE, { x: startX, y: tableY, w: tableW, h: 0.38, fill: { color: C.primary } });
+    s.addShape(pres.shapes.RECTANGLE, { x: startX, y: tableY, w: tableW, h: 0.38, fill: { color: C.primary } });
     s.addText("权威机构", {
       x: startX + 0.12, y: tableY + 0.04, w: colW1, h: 0.3,
       fontSize: 11, fontFace: "Arial", bold: true, color: C.text_on_dark, valign: "middle"
@@ -448,7 +449,7 @@ async function main() {
       const y = tableY + 0.38 + i * rowH;
       // 斑马
       if (i % 2 === 0) {
-        s.addShape(pres.Shapes.RECTANGLE, { x: startX, y, w: tableW, h: rowH, fill: { color: C.card_subtle } });
+        s.addShape(pres.shapes.RECTANGLE, { x: startX, y, w: tableW, h: rowH, fill: { color: C.card_subtle } });
       }
       // 机构名（橙色加粗）
       s.addText(r.dim, {
@@ -477,7 +478,7 @@ async function main() {
       });
     }
     // 底部金句（4.85 避开表格末尾 4.65）
-    s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+    s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
       x: 0.5, y: 4.85, w: 9.0, h: 0.38,
       fill: { color: C.background_dark }, rectRadius: 0.04
     });
@@ -506,13 +507,13 @@ async function main() {
       const y = startY + row * (rowH + gapY);
       const colorHex = card.color === "accent" ? C.accent : C.primary;
       // 卡片
-      s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+      s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
         x, y, w: colW, h: rowH,
         fill: { color: C.card_light }, rectRadius: 0.08, shadow: makeShadow(),
         line: { color: C.divider, width: 0.5 }
       });
       // 左侧图标圆
-      s.addShape(pres.Shapes.OVAL, { x: x + 0.2, y: y + 0.22, w: 0.5, h: 0.5, fill: { color: colorHex } });
+      s.addShape(pres.shapes.OVAL, { x: x + 0.2, y: y + 0.22, w: 0.5, h: 0.5, fill: { color: colorHex } });
       s.addImage({ data: icons[card.icon], x: x + 0.27, y: y + 0.29, w: 0.36, h: 0.36,
         sizing: { type: "contain", w: 0.36, h: 0.36 } });
       // 大数据
@@ -532,7 +533,7 @@ async function main() {
       });
     });
     // 底部金句（4.78 避开卡片底 4.73）
-    s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+    s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
       x: 0.5, y: 4.78, w: 9.0, h: 0.38,
       fill: { color: C.background_dark }, rectRadius: 0.04
     });
@@ -552,14 +553,14 @@ async function main() {
     addPageTitle(s, slides[8].title, slides[8].subtitle);
     // 时间轴主线
     const lineY = 3.1;
-    s.addShape(pres.Shapes.RECTANGLE, { x: 0.7, y: lineY, w: 8.6, h: 0.04, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 0.7, y: lineY, w: 8.6, h: 0.04, fill: { color: C.accent } });
     // 3 个阶段
     const phases = slides[8].phases;
     phases.forEach((p, i) => {
       const x = 0.85 + i * 3.0;
       // 节点圆
       const nodeColor = p.color === "primary" ? C.primary : p.color === "accent" ? C.accent : C.primary_bright;
-      s.addShape(pres.Shapes.OVAL, { x: x + 1.3, y: lineY - 0.15, w: 0.35, h: 0.35, fill: { color: nodeColor } });
+      s.addShape(pres.shapes.OVAL, { x: x + 1.3, y: lineY - 0.15, w: 0.35, h: 0.35, fill: { color: nodeColor } });
       s.addText(String(i + 1), {
         x: x + 1.3, y: lineY - 0.13, w: 0.35, h: 0.32,
         fontSize: 14, fontFace: "Arial", bold: true, color: C.text_on_dark, align: "center", valign: "middle"
@@ -574,7 +575,7 @@ async function main() {
         fontSize: 10, fontFace: "Arial", color: C.text_sub, align: "center", charSpacing: 3
       });
       // 下方卡片
-      s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+      s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
         x, y: 3.45, w: 2.9, h: 1.4,
         fill: { color: C.card_light }, rectRadius: 0.08, shadow: makeShadow(),
         line: { color: nodeColor, width: 1.5 }
@@ -589,7 +590,7 @@ async function main() {
       });
     });
     // 顶部金句
-    s.addShape(pres.Shapes.ROUNDED_RECTANGLE, {
+    s.addShape(pres.shapes.ROUNDED_RECTANGLE, {
       x: 0.5, y: 1.7, w: 9.0, h: 0.5,
       fill: { color: C.accent }, rectRadius: 0.05
     });
@@ -608,11 +609,11 @@ async function main() {
     if (availableImages.closing) {
       s.addImage({ path: availableImages.closing, x: 0, y: 0, w: 10, h: 5.625,
         sizing: { type: "cover", w: 10, h: 5.625 }, transparency: 10 });
-      s.addShape(pres.Shapes.RECTANGLE, {
+      s.addShape(pres.shapes.RECTANGLE, {
         x: 0, y: 0, w: 10, h: 5.625, fill: { color: C.background_dark, transparency: 45 } });
     }
     // 顶部装饰
-    s.addShape(pres.Shapes.RECTANGLE, { x: 0, y: 0, w: 10, h: 0.06, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 0, y: 0, w: 10, h: 0.06, fill: { color: C.accent } });
     // 核心金句（26pt 缩到 23 字内）
     s.addText("知识中台不是「要不要建」，而是「多快建成」", {
       x: 0.8, y: 1.5, w: 8.4, h: 1.2,
@@ -624,7 +625,7 @@ async function main() {
       fontSize: 15, fontFace: "Noto Sans SC", color: C.text_on_dark_sub, align: "center"
     });
     // 分隔线
-    s.addShape(pres.Shapes.RECTANGLE, { x: 4.2, y: 3.4, w: 1.6, h: 0.04, fill: { color: C.accent } });
+    s.addShape(pres.shapes.RECTANGLE, { x: 4.2, y: 3.4, w: 1.6, h: 0.04, fill: { color: C.accent } });
     // Q&A
     s.addText(slides[9].highlight, {
       x: 0.8, y: 3.7, w: 8.4, h: 0.6,
