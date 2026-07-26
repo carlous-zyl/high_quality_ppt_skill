@@ -1,1 +1,70 @@
-IyDlhoXnva7po47moLxC77ya57u/6Imy5LiT5Lia6aOOCiMg5rqQ6Ieq44CK6IGM5Lia6KeE5YiS5a6M5pW05oyH5Y2X44CL5Y+C6ICDUFBU6KeG6KeJ6KeE6IyDCm5hbWU6IGdyZWVuX3Byb2Zlc3Npb25hbApkaXNwbGF5X25hbWU6IOe7v+iJsuS4k+S4mumjjgp2ZXJzaW9uOiAxCnNvdXJjZTogbWFudWFsCmV4dHJhY3RlZF9hdDogbnVsbAprZXl3b3JkczogW+e7v+iJsiwg5LiT5LiaLCDmuIXmlrAsIOeOr+S/nSwg6IO95rqQLCDlhpzkuJosIOWBpeW6tywg5pWZ6IKyLCDln7norq1dCgpzbGlkZToKICB3aWR0aF9pbjogMTAuMAogIGhlaWdodF9pbjogNS42MjUKICBhc3BlY3Q6ICIxNjo5IgoKcGFsZXR0ZToKICBiYWNrZ3JvdW5kX2RhcmtOiAiMUUyOTNCIiAgICAgICAgIyDmt7HoibLlsIHpnaLvnuTmlmxvyNTu5PlsL4KICBiYWNrZ3JvdW5kX2xpZ2h0OiAiRkZGRkZGIiAgICAgICAjIOeZveW6leWGheWuuemhtQogIGNhcmRfZGFyazogIjFFMjkzQiIKICBjYXJkX2xpZ2h0OiAiRkZGRkZGIgogIHByaW1hcnk6ICIwNDc4NTciICAgICAgICAgICAgICAgICMg5rex57u/CiAgcHJpbWFyeV9saWdodDogIjA1OTY2OSIgICAgICAgICAgIyDkuK3nu78KICBwcmltYXJ5X2JyaWdodDogIjEwQjk4MSIgICAgICAgICAjIOS6rue7vwogIGFjY2VudDogIkY5NzMxNiIgICAgICAgICAgICAgICAgICMg5qmZ6Imy5b6956ugCiAgYWNjZW50MjogIjZFRTdCNyIgICAgICAgICAgICAgICAgIyDlvLrosIPmtYXnu78KICBzdWNjZXNzOiAiMTBCOTgxIgogIHdhcm5pbmc6ICJFRjQ0NDQiCiAgb3JhbmdlX2xpZ2h0X2JnOiAiRkZGN0VEIiAgICAgICAgIyDmqZnoibLmtYXlupUKICBncmVlbl9saWdodF9iZzogIkU2RjlGMCIgICAgICAgICAjIOe7v+iJsua1heW6lQogIHRleHRfbWFpbjogIjMzNDE1NSIKICB0ZXh0X3N1YjogIjY0NzQ4QiIKICB0ZXh0X29uX2Rhcms6ICJGRkZGRkYiCiAgdGV4dF9vbl9kYXJrX3N1YjogIjk0QTNCOCIKCmZvbnRzOgogIGxhdGluOiBBcmlhbAogIGNqazogTm90byBTYW5zIFDICiAgY2prX2ZhbGxiYWNrOiBQaW5nRmFuZyBTQwogIHRpdGxlX21heF9wdDogMzYKICB0aXRsZV9taW5fcHQ6IDIyCiAgYm9keV9wdDogMTEKICBjYXB0aW9uX3B0OiA5CgpsYXlvdXQ6CiAgY292ZXI6CiAgICBiYWNrZ3JvdW5kOiBkYXJrCiAgICBlbGVtZW50czogW3RpdGxlLCBzdWJ0aXRsZSwgbWV0cmljX2NhcmRzXQogICAgbWV0cmljX2NhcmRzOiAzCiAgY29udGVudDoKICAgIGJhY2tncm91bmQ6IGxpZ2h0CiAgICB0aXRsZV9iYXI6IGZhbHNlCiAgICBjYXJkX3N0eWxlOiByb3VuZGVkX2ZsYXQgICAgICAgIyDnmb3oibLlnIbop5LljaHniYcgKyDnvJblj7flvr3nq6AKICAgIGJhZGdlX3N0eWxlOiBvcmFuZ2VfbnVtYmVyZWQgICAjIOapmeiJsue8luWPt+W+veeroAogIHRvYzoKICAgIGJhY2tncm91bmQ6IGxpZ2h0CiAgICBiYWRnZV9zdHlsZTogZ3JlZW5fY2lyY2xlICAgICAgIyDnu7/oibLnvJblj7flnIblnIgKICBzdGVwczoKICAgIGJhZGdlX3N0eWxlOiBmYXN0X2xhYmVscyAgICAgICAjIEYvQS9TL1Qg5b2p6Imy5q2l6aqk5qCH562+CiAgY2xvc2luZzoKICAgIGJhY2tncm91bmQ6IGRhcmsKICAgIGVsZW1lbnRzOiBbcWFfdGl0bGUsIGRpdmlkZXJfbGluZV0KCmltYWdlcnk6CiAgbW9kZTogd29ya2J1ZGR5CiAgYmFja2dyb3VuZF90cmFuc3BhcmVuY3k6IDEwCiAgaWxsdXN0cmF0aW9uX3RyYW5zcGFyZW5jeTogMzAKICBpY29uX2NvbG9yX29uX2xpZ2h0OiAiRkY2RjAwIiAgICAjIOeQpeePgOapme+8iOS6ruW6le+8iQogIGljb25fY29sb3Jfb25fZGFyazogIkZGRkZGRiIKICBwcm9tcHRfc3R5bGU6ICJtaW5pbWFsaXN0IGRpZ2l0YWwgaWxsdXN0cmF0aW9uLCBncmVlbiBhbmQgb3JhbmdlIGFjY2VudHMsIGNsZWFuIGNvbXBvc2l0aW9uLCB3aGl0ZSBiYWNrZ3JvdW5kLCBwcm9mZXNzaW9uYWwsIG5vIHRleHQiCgpleHRyYWN0aW9uOiBudWxsCg==
+# 内置风格B：绿色专业风
+# 源自《职业规划完整指南》参考PPT视觉规范
+name: green_professional
+display_name: 绿色专业风
+version: 1
+source: manual
+extracted_at: null
+keywords: [绿色, 专业, 清新, 环保, 能源, 农业, 健康, 教育, 培训]
+
+slide:
+  width_in: 10.0
+  height_in: 5.625
+  aspect: "16:9"
+
+palette:
+  background_dark: "1E293B"        # 深色封面/结尾
+  background_light: "FFFFFF"       # 白底内容页
+  card_dark: "1E293B"
+  card_light: "FFFFFF"
+  primary: "047857"                # 深绿
+  primary_light: "059669"          # 中绿
+  primary_bright: "10B981"         # 亮绿
+  accent: "F97316"                 # 橙色徽章
+  accent2: "6EE7B7"                # 强调浅绿
+  success: "10B981"
+  warning: "EF4444"
+  orange_light_bg: "FFF7ED"        # 橙色浅底
+  green_light_bg: "E6F9F0"         # 绿色浅底
+  text_main: "334155"
+  text_sub: "64748B"
+  text_on_dark: "FFFFFF"
+  text_on_dark_sub: "94A3B8"
+
+fonts:
+  latin: Arial
+  cjk: Noto Sans SC
+  cjk_fallback: PingFang SC
+  title_max_pt: 36
+  title_min_pt: 22
+  body_pt: 11
+  caption_pt: 9
+
+layout:
+  cover:
+    background: dark
+    elements: [title, subtitle, metric_cards]
+    metric_cards: 3
+  content:
+    background: light
+    title_bar: false
+    card_style: rounded_flat       # 白色圆角卡片 + 编号徽章
+    badge_style: orange_numbered   # 橙色编号徽章
+  toc:
+    background: light
+    badge_style: green_circle      # 绿色编号圆圈
+  steps:
+    badge_style: fast_labels       # F/A/S/T 彩色步骤标签
+  closing:
+    background: dark
+    elements: [qa_title, divider_line]
+
+imagery:
+  mode: workbuddy
+  background_transparency: 10
+  illustration_transparency: 30
+  icon_color_on_light: "FF6F00"    # 琥珀橙（亮底）
+  icon_color_on_dark: "FFFFFF"
+  prompt_style: "minimalist digital illustration, green and orange accents, clean composition, white background, professional, no text"
+
+extraction: null
