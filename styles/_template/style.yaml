@@ -1,1 +1,81 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBzdHlsZS55YW1sIOKAlCBQUFQg6aOO5qC85qC35L6LIHNjaGVtYSBtcGyZbWUKIyDlpI3liLbmnKzmlofku7bliLAgc3R5bGVzLzxzdHlsZV9uYW1lPi9zdHlsZS55YW1sIOWQjumAkOmhueWhq+WGmQojIOiJsuWAvOe6puWumu+8mjYg5L2NIGhleCDlpKflhpnvvIzkuI3luKYgIyDliY3nvIDvvIhQcHR4R2VuSlMg57qm5a6a77yJCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpuYW1lOiBzdHlsZV9pZF9zbmFrZV9jYXNlICAgICAgICAgICMg6aOO5qC8SUTvvIzkuI7nm67lvZXlkI3kuIDoh7QKZGlzcGxheV9uYW1lOiDpo47moLzkuK3mloflkI0KdmVyc2lvbjogMQpzb3VyY2U6IG1hbnVhbCAgICAgICAgICAgICAgICAgICAgICMgbWFudWFsIHwgZXh0cmFjdGVkOjzmupDmlofku7blkI0+CmV4dHJhY3RlZF9hdDogbnVsbCAgICAgICAgICAgICAgICAgIyDmj5Dlj5bml7bpl7TvvIhJU084NjAx77yJ77yM5omL5bel5Yib5bu65aGrIG51bGwKa2V5d29yZHM6IFtdICAgICAgICAgICAgICAgICAgICAgICAjIOinpuWPkeWFs+mUruivje+8jOeUqOS6jiByZWdpc3RyeSDljLnphY0KCiMgLS0tLSDpobXpnaLop4TmoLwgLS0tLQpzbGlkZToKICB3aWR0aF9pbjogMTAuMCAgICAgICAgICAgICAgICAgICAjIDE2OjkgPSAxMCB4IDUuNjI1CiAgaGVpZ2h0X2luOiA1LjYyNQogIGFzcGVjdDogIjE2OjkiCgojIC0tLS0g6Imy5p2/IC0tLS0KcGFsZXR0ZToKICAjIOiDjOaZrwogIGJhY2tncm91bmRfZGFyazogIjBGMTcyQSIgICAgICAgICMg5bCB6Z2iL+WIhumalC/nu5PlsL7pobXmt7HoibLog4zmma8KICBiYWNrZ3JvdW5kX2xpZ2h0OiAiRjhGQUZDIiAgICAgICAjIOWGheWuuemhtea1heiJsuiDjOaZrwogIGNhcmRfZGFyazogIjFFMjkzQiIgICAgICAgICAgICAgICMg5rex6Imy5Y2h54mHCiAgY2FyZF9saWdodDogIkZGRkZGRiIgICAgICAgICAgICAgIzDmtYXoibLljaHniYcKICAjIOS4u+iJsu+8iOKJpDPnp43vvIkKICBwcmltYXJ5OiAiMEQ5NDg4IiAgICAgICAgICAgICAgICAjIOS4u+iJsgogIHByaW1hcnlfbGlnaHQ6ICIxNEI4QTYiICAgICAgICAgICMg5Li76ImyLeS6rgogIHByaW1hcnlfYnJpZ2h0OiAiMkRENEJGIiAgICAgICAgICMg5Li76ImyLeW8uuiwg+S6rgogICMg6L6F5Yqp6Imy77yI4omkMuenje+8iQogIGFjY2VudDogIkY1OUUwQiIgICAgICAgICAgICAgICAgICMg6auY5Lqu5by66LCDCiAgYWNjZW50MjogIjNCODJGNiIgICAgICAgICAgICAgICAgIyDovoXliqkyCiAgIyDor63kuYnoibIKICBzdWNjZXNzOiAiMTBCOTgxIgogIHdhcm5pbmc6ICJFRjQ0NDQiCiAgIyDmloflrZcKICB0ZXh0X21haW46ICIzMzQxNTUiICAgICAgICAgICAgICAjIOato+aWh++8iOa1heW6leS4iu+8iQogIHRleHRfc3ViOiAiNjQ3NDhCIiAgICAgICAgICAgICAgICMg5Ymv5paH5pysCiAgdGV4dF9vbl9kYXJrOiAiRkZGRkZGIiAgICAgICAgICAgIyDmt7HlupXkuIrnmoTkuLvmloflrZcKICB0ZXh0X29uX2Rhcmtfc3ViOiAiOTRBM0I4IiAgICAgICAjIOa3seW6leS4iueahOWJr+aWh+WtlwoKIyAtLS0tIOWtl+S9kyAtLS0tCmZvbnRzOgogIGxhdGluOiBBcmlhbCAgICAgICAgICAgICAgICAgICAgICMg6Iux5paHL+aVsOWtlwogIGNqazogTm90byBTYW5zIFNDICAgICAgICAgICAgICAgICMg5Lit5paH77yIbWFjT1Mg5Zue6YCAIFBpbmdGYW5nIFND77yJCiAgdGl0bGVfbWF4X3B0OiA0MCAgICAgICAgICAgICAgICAgIyDlpKfmoIfpopjlrZflj7fkuIrpmZAKICB0aXRsZV9taW5fcHQ6IDI0CiAgYm9keV9wdDogMTEgICAgICAgICAgICAgICAgICAgICAgIyDmraPmloflrZflj7cKICBjYXB0aW9uX3B0OiA5ICAgICAgICAgICAgICAgICAgICAjIOazqOmHii/pobXnoIEKCiMgLS0tLSDluIPlsYDop4TojIMgLS0tLQpsYXlvdXQ6CiAgY292ZXI6ICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDlsIHpnaLpobUKICAgIGJhY2tncm91bmQ6IGRhcmsgICAgICAgICAgICAgICAjIGRhcmsgfCBsaWdodCB8IGltYWdlCiAgICBvdmVybGF5X3RyYW5zcGFyZW5jeTogNDUgICAgICAgIyDog4zmma/lm77kuIrnmoTmmpfoibLopobnm5blsYLpgI/mmI7luqYKICAgIGVsZW1lbnRzOiBbdGFnLCB0aXRsZSwgc3VidGl0bGUsIG1ldHJpY19jYXJkc10KICBjb250ZW50OiAgICAgICAgICAgICAgICAgICAgICAgICAjIOWGheWuuemhtQogICAgYmFja2dyb3VuZDogbGlnaHQKICAgIHRpdGxlX2JhcjogdHJ1ZSAgICAgICAgICAgICAgICAjIOmhteagh+mimOijhemlsOadoQogICAgY2FyZF9zdHlsZTogcm91bmRlZF9zaGFkb3cgICAgIyByb3VuZGVkX3NoYWRvdyB8IGZsYXQgfCBvdXRsaW5lZAogIHNlY3Rpb25fZGl2aWRlcjoKICAgIGJhY2tncm91bmQ6IGltYWdlX2RhcmsKICAgIG92ZXJsYXlfdHJhbnNwYXJlbmN5OiA0NQoKIyAtLS0tIOmFueWbvumnhOiMgyAtLS0tCmltYWdlcnk6CiAgbW9kZTogd29ya2J1ZGR5ICAgICAgICAgICAgICAgICAgIyBwbGFjZWhvbGRlciB8IGFwaSB8IHdvcmtidWRkeQogIGJhY2tncm91bmRfdHJhbnNwYXJlbmN5OiAxMCAgICAgICMgcGxhY2Vob2xkZXIoIGhlcm8rb3ZlcmxheTog5Zu+MTDpgI/mmI49OTDmmL7npLrvvIkKICBpbGx1c3RyYXRpb25fdHJhbnNwYXJlbmN5OiAzMCAgICAjIOinkuiQveaPkuWbvumAj+aYjuW6pu+8iDI1LTQw77yJCiAgaWNvbl9jb2xvcl9vbl9saWdodDogIkZGNkYwMCIgICAgIyDmtYXlupXlm77moIfoibIKICBpY29uX2NvbG9yX29uX2Rhcms6ICJGRkZGRkYiICAgICAjIOa3seW6leWbvuagh+iJsgoKIyAtLS0tIOaPkOWPlue7n+iuoe+8iOS7hSBleHRyYWN0ZWQg5p2l5rqQ5aGr5YaZ77yJLS0tLQpleHRyYWN0aW9uOgogIHRoZW1lX2NvbG9yczoge30gICAgICAgICAgICAgICAgICMgcHB0eCB0aGVtZSBYTUwg5Y6f5aeLIGFjY2VudDEtNiDnrYkKICB0b3BfdGV4dF9jb2xvcnM6IFtdICAgICAgICAgICAgICAjIFt7aGV4LCBjb3VudH1dCiAgdG9wX2ZpbGxfY29sb3JzOiBbXQogIGZvbnRfZmFjZXNfc2VlbjogW10KICBhdmdfaW1hZ2VzX3Blcl9zbGlkZTogMAogIHNsaWRlX2NvdW50OiAwCg==
+# ============================================================
+# style.yaml — PPT 风格样例 schema 模板
+# 复制本文件到 styles/<style_name>/style.yaml 后逐项填写
+# 色值约定：6 位 hex 大写，不带 # 前缀（PptxGenJS 约定）
+# ============================================================
+
+name: style_id_snake_case          # 风格ID，与目录名一致
+display_name: 风格中文名
+version: 1
+source: manual                     # manual | extracted:<源文件名>
+extracted_at: null                 # 提取时间（ISO8601），手工创建填 null
+keywords: []                       # 触发关键词，用于 registry 匹配
+
+# ---- 页面规格 ----
+slide:
+  width_in: 10.0                   # 16:9 = 10 x 5.625
+  height_in: 5.625
+  aspect: "16:9"
+
+# ---- 色板 ----
+palette:
+  # 背景
+  background_dark: "0F172A"        # 封面/分隔/结尾页深色背景
+  background_light: "F8FAFC"       # 内容页浅色背景
+  card_dark: "1E293B"              # 深色卡片
+  card_light: "FFFFFF"             # 浅色卡片
+  # 主色（≤3种）
+  primary: "0D9488"                # 主色
+  primary_light: "14B8A6"          # 主色-亮
+  primary_bright: "2DD4BF"         # 主色-强调亮
+  # 辅助色（≤2种）
+  accent: "F59E0B"                 # 高亮强调
+  accent2: "3B82F6"                # 辅助2
+  # 语义色
+  success: "10B981"
+  warning: "EF4444"
+  # 文字
+  text_main: "334155"              # 正文（浅底上）
+  text_sub: "64748B"               # 副文本
+  text_on_dark: "FFFFFF"           # 深底上的主文字
+  text_on_dark_sub: "94A3B8"       # 深底上的副文字
+
+# ---- 字体 ----
+fonts:
+  latin: Arial                     # 英文/数字
+  cjk: Noto Sans SC                # 中文（macOS 回退 PingFang SC）
+  title_max_pt: 40                 # 大标题字号上限
+  title_min_pt: 24
+  body_pt: 11                      # 正文字号
+  caption_pt: 9                    # 注释/页码
+
+# ---- 布局规范 ----
+layout:
+  cover:                           # 封面页
+    background: dark               # dark | light | image
+    overlay_transparency: 45       # 背景图上的暗色覆盖层透明度
+    elements: [tag, title, subtitle, metric_cards]
+  content:                         # 内容页
+    background: light
+    title_bar: true                # 页标题装饰条
+    card_style: rounded_shadow     # rounded_shadow | flat | outlined
+  section_divider:
+    background: image_dark
+    overlay_transparency: 45
+
+# ---- 配图规范 ----
+imagery:
+  mode: workbuddy                  # placeholder | api | workbuddy
+  background_transparency: 10      # 全屏背景图透明度（hero+overlay: 图10透明=90显示）
+  illustration_transparency: 30    # 角落插图透明度（25-40）
+  icon_color_on_light: "FF6F00"    # 浅底图标色
+  icon_color_on_dark: "FFFFFF"     # 深底图标色
+
+# ---- 提取统计（仅 extracted 来源填写）----
+extraction:
+  theme_colors: {}                 # pptx theme XML 原始 accent1-6 等
+  top_text_colors: []              # [{hex, count}]
+  top_fill_colors: []
+  font_faces_seen: []
+  avg_images_per_slide: 0
+  slide_count: 0
