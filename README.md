@@ -4,6 +4,16 @@
 
 **当前版本：v3.5.2**（版本记录见文末）
 
+## 安装
+
+### 方式 1：WorkBuddy 技能市场（推荐）
+打开 WorkBuddy，进入 **技能市场**，搜索「高质量PPT生成引擎」，一键安装即可使用。
+
+### 方式 2：通过 SkillHub 提示词安装
+把下面这条提示词直接发给你的 AI，即可自动安装：
+
+> 请根据 https://skillhub.cn/install/skillhub.md ，安装 high-quality-ppt-skill
+
 ## 核心能力
 
 - **双模式生成**：JS 直接生成（推荐，视觉最佳）+ Python 6步 Pipeline（完整需求管控）
